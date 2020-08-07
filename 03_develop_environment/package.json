@@ -1,0 +1,25 @@
+{
+  "name": "03_develop_environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --config webpack.config.js",
+    "build": "webpack --config webpack.config.js --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "react-loader": "^2.4.7",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "moment": "^2.27.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

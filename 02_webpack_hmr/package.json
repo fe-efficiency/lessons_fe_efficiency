@@ -1,0 +1,25 @@
+{
+  "name": "02_webpack_hmr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:basic": "webpack --config webpack.config.basic.js",
+    "build:watch": "webpack --config webpack.config.watch.js",
+    "dev:reload": "webpack-dev-server --config webpack.config.reload.js",
+    "dev:hmr": "webpack-dev-server --config webpack.config.hmr.js",
+    "dev:hmr2": "webpack-dev-server --config webpack.config.hmr2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loadsh": "0.0.4",
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {
+    "css-loader": "^3.6.0",
+    "style-loader": "^1.2.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
