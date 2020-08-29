@@ -1,0 +1,30 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "src/simple.js": 0,
+      "src/withImport.js": 1,
+      "src/withDefault.js": 2
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2
+    }
+  },
+  "chunks": {
+    "byName": {
+      "simple": 1,
+      "withImport": 2
+    },
+    "bySource": {
+      "0 src/withImport.js ./withDefault": 0,
+      "0 simple": 1,
+      "0 withImport": 2
+    },
+    "usedIds": [
+      0,
+      1,
+      2
+    ]
+  }
+}

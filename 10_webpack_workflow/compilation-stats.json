@@ -1,0 +1,463 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.1",
+  "hash": "4fbbcbbc99f98c924363",
+  "time": 69,
+  "builtAt": 1598261197374,
+  "publicPath": "",
+  "outputPath": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/dist",
+  "assetsByChunkName": {
+    "simple": "simple.js",
+    "withImport": "withImport.js"
+  },
+  "assets": [
+    {
+      "name": "simple.js",
+      "size": 3839,
+      "chunks": [
+        "simple"
+      ],
+      "chunkNames": [
+        "simple"
+      ],
+      "info": {},
+      "emitted": true
+    },
+    {
+      "name": "withImport.js",
+      "size": 4545,
+      "chunks": [
+        "withImport"
+      ],
+      "chunkNames": [
+        "withImport"
+      ],
+      "info": {},
+      "emitted": true
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "simple": {
+      "chunks": [
+        "simple"
+      ],
+      "assets": [
+        "simple.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "withImport": {
+      "chunks": [
+        "withImport"
+      ],
+      "assets": [
+        "withImport.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "simple": {
+      "chunks": [
+        "simple"
+      ],
+      "assets": [
+        "simple.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "withImport": {
+      "chunks": [
+        "withImport"
+      ],
+      "assets": [
+        "withImport.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": "simple",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 27,
+      "names": [
+        "simple"
+      ],
+      "files": [
+        "simple.js"
+      ],
+      "hash": "38839e9ff2bfbe21ffac",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [
+        {
+          "id": "./src/simple.js",
+          "identifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/simple.js",
+          "name": "./src/simple.js",
+          "index": 0,
+          "index2": 0,
+          "size": 27,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            "simple"
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "profile": {
+            "factory": 21,
+            "building": 7
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "./src/simple.js",
+              "loc": "simple"
+            }
+          ],
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 0,
+          "source": "console.log('Hello World')\n"
+        }
+      ],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "simple",
+          "request": "./src/simple.js",
+          "reasons": []
+        }
+      ]
+    },
+    {
+      "id": "withImport",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 119,
+      "names": [
+        "withImport"
+      ],
+      "files": [
+        "withImport.js"
+      ],
+      "hash": "a56418b0fb95ff0969af",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [
+        {
+          "id": "./src/withDefault.js",
+          "identifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withDefault.js",
+          "name": "./src/withDefault.js",
+          "index": 2,
+          "index2": 1,
+          "size": 69,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            "withImport"
+          ],
+          "issuer": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+          "issuerId": "./src/withImport.js",
+          "issuerName": "./src/withImport.js",
+          "issuerPath": [
+            {
+              "id": "./src/withImport.js",
+              "identifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+              "name": "./src/withImport.js",
+              "profile": {
+                "factory": 16,
+                "building": 8
+              }
+            }
+          ],
+          "profile": {
+            "factory": 2,
+            "building": 1
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "./src/withImport.js",
+              "moduleIdentifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+              "module": "./src/withImport.js",
+              "moduleName": "./src/withImport.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./withDefault",
+              "loc": "1:0-31"
+            },
+            {
+              "moduleId": "./src/withImport.js",
+              "moduleIdentifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+              "module": "./src/withImport.js",
+              "moduleName": "./src/withImport.js",
+              "type": "harmony import specifier",
+              "userRequest": "./withDefault",
+              "loc": "3:12-15"
+            }
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [],
+          "depth": 1,
+          "source": "var a = 'Hellow World'\n\nexport default a\n\nconsole.log('Hello World')\n"
+        },
+        {
+          "id": "./src/withImport.js",
+          "identifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+          "name": "./src/withImport.js",
+          "index": 1,
+          "index2": 2,
+          "size": 50,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            "withImport"
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "profile": {
+            "factory": 16,
+            "building": 8
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "./src/withImport.js",
+              "loc": "withImport"
+            }
+          ],
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 0,
+          "source": "import foo from './withDefault'\n\nconsole.log(foo)\n"
+        }
+      ],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "withImport",
+          "request": "./src/withImport.js",
+          "reasons": []
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "./src/simple.js",
+      "identifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/simple.js",
+      "name": "./src/simple.js",
+      "index": 0,
+      "index2": 0,
+      "size": 27,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        "simple"
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "profile": {
+        "factory": 21,
+        "building": 7
+      },
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": null,
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "type": "single entry",
+          "userRequest": "./src/simple.js",
+          "loc": "simple"
+        }
+      ],
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": 0,
+      "source": "console.log('Hello World')\n"
+    },
+    {
+      "id": "./src/withDefault.js",
+      "identifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withDefault.js",
+      "name": "./src/withDefault.js",
+      "index": 2,
+      "index2": 1,
+      "size": 69,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        "withImport"
+      ],
+      "issuer": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+      "issuerId": "./src/withImport.js",
+      "issuerName": "./src/withImport.js",
+      "issuerPath": [
+        {
+          "id": "./src/withImport.js",
+          "identifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+          "name": "./src/withImport.js",
+          "profile": {
+            "factory": 16,
+            "building": 8
+          }
+        }
+      ],
+      "profile": {
+        "factory": 2,
+        "building": 1
+      },
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": "./src/withImport.js",
+          "moduleIdentifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+          "module": "./src/withImport.js",
+          "moduleName": "./src/withImport.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./withDefault",
+          "loc": "1:0-31"
+        },
+        {
+          "moduleId": "./src/withImport.js",
+          "moduleIdentifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+          "module": "./src/withImport.js",
+          "moduleName": "./src/withImport.js",
+          "type": "harmony import specifier",
+          "userRequest": "./withDefault",
+          "loc": "3:12-15"
+        }
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [],
+      "depth": 1,
+      "source": "var a = 'Hellow World'\n\nexport default a\n\nconsole.log('Hello World')\n"
+    },
+    {
+      "id": "./src/withImport.js",
+      "identifier": "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/10_webpack_workflow/src/withImport.js",
+      "name": "./src/withImport.js",
+      "index": 1,
+      "index2": 2,
+      "size": 50,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        "withImport"
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "profile": {
+        "factory": 16,
+        "building": 8
+      },
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": null,
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "type": "single entry",
+          "userRequest": "./src/withImport.js",
+          "loc": "withImport"
+        }
+      ],
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 0,
+      "source": "import foo from './withDefault'\n\nconsole.log(foo)\n"
+    }
+  ],
+  "filteredModules": 0,
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [
+        {
+          "type": "time",
+          "message": "prepare: 0.965633ms"
+        },
+        {
+          "type": "time",
+          "message": "visiting: 0.21884ms"
+        }
+      ],
+      "filteredEntries": 0,
+      "debug": false
+    }
+  },
+  "children": []
+}

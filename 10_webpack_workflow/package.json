@@ -1,0 +1,16 @@
+{
+  "name": "10_webpack_workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:cli": "webpack --config webpack.config.js",
+    "build:node": "node webpack-node.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
