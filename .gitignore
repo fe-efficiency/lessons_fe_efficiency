@@ -103,3 +103,5 @@ typings/
 .tern-port
 
 11_build_efficiency/dist
+12_optimize_efficiency/dist
+13_cache/dist
