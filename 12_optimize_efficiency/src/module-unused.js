@@ -6,4 +6,4 @@ export function bar() {
   console.log('bar')
 }
 
-bar()
+/*#__PURE__*/ bar()
