@@ -83,8 +83,6 @@ class WebpackTimingPlugin {
           `build duration: ${Date.now() - applyStart}ms`
         )
       })
-      // compilation.hooks.finishRebuildingModule.tap(PluginName, (module) => {
-      // })
     })
 
     //统计生成产物时间
@@ -100,6 +98,10 @@ class WebpackTimingPlugin {
       )
       moduleCount = 0
     })
+    //跟踪读取cache的过程
+    // compiler.cache.hooks.get.tap(PluginName, (identifier) => {
+    //   console.log('get cache', identifier)
+    // })
   }
 }
 

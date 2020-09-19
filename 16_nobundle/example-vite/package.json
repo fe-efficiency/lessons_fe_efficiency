@@ -1,0 +1,16 @@
+{
+  "name": "example-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.15",
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.1",
+    "@vue/compiler-sfc": "^3.0.0-rc.1"
+  }
+}

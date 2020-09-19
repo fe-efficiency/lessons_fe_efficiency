@@ -18,18 +18,24 @@ module.exports = merge(common, {
   output: {
     filename: '[name]-[contenthash:8].js',
   },
-  // cache: {
-  //   type: 'filesystem',
-  //   name: 'w5cache',
-  //   cacheLocation: path.resolve(__dirname, '.appcache'),
-  //   buildDependencies: {
-  //     config: [__filename],
-  //   },
-  //   // version: '11',
-  // },
+  cache: {
+    type: 'filesystem',
+    name: 'w5cache',
+    cacheLocation: path.resolve(__dirname, '.appcache'),
+    buildDependencies: {
+      config: [__filename],
+    },
+    // version: '11',
+  },
   optimization: {
     splitChunks: {
       chunks: 'all',
     },
   },
+  // stats: {
+  //   logging: 'verbose',
+  // },
+  // infrastructureLogging: {
+  //   debug: /webpack\.cache/,
+  // },
 })
