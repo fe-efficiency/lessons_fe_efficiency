@@ -4,4 +4,9 @@ orbs:
 workflows:
   node-tests:
     jobs:
-      - node/test
+      node/test:
+        working_directory: ~/project/12_optimize_efficiency/
+        steps:
+          - run: npm i
+          - run: npm run build:split
+        
