@@ -1,0 +1,752 @@
+yarn install v1.21.1
+verbose 0.141698297 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.npmrc".
+verbose 0.141964141 Checking for configuration file "/Users/lisijia/.npmrc".
+verbose 0.142068937 Checking for configuration file "/usr/local/etc/npmrc".
+verbose 0.142166229 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.npmrc".
+verbose 0.142249555 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/.npmrc".
+verbose 0.142328424 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/.npmrc".
+verbose 0.142405202 Checking for configuration file "/Users/lisijia/work/ke/tmp/.npmrc".
+verbose 0.142479252 Found configuration file "/Users/lisijia/work/ke/tmp/.npmrc".
+verbose 0.142718091 Checking for configuration file "/Users/lisijia/work/ke/.npmrc".
+verbose 0.142820902 Checking for configuration file "/Users/lisijia/work/.npmrc".
+verbose 0.14290581 Checking for configuration file "/Users/lisijia/.npmrc".
+verbose 0.142992199 Checking for configuration file "/Users/.npmrc".
+verbose 0.144280497 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.144385232 Found configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.144699554 Checking for configuration file "/Users/lisijia/.yarnrc".
+verbose 0.144796598 Found configuration file "/Users/lisijia/.yarnrc".
+verbose 0.144995851 Checking for configuration file "/usr/local/etc/yarnrc".
+verbose 0.145106045 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.145192894 Found configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.145343233 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/.yarnrc".
+verbose 0.14543021 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/.yarnrc".
+verbose 0.145513526 Checking for configuration file "/Users/lisijia/work/ke/tmp/.yarnrc".
+verbose 0.145591857 Checking for configuration file "/Users/lisijia/work/ke/.yarnrc".
+verbose 0.14567109 Checking for configuration file "/Users/lisijia/work/.yarnrc".
+verbose 0.145747112 Checking for configuration file "/Users/lisijia/.yarnrc".
+verbose 0.145818134 Found configuration file "/Users/lisijia/.yarnrc".
+verbose 0.145955762 Checking for configuration file "/Users/.yarnrc".
+network 8 5 {
+  userAgent: 'yarn/1.21.1 npm/? node/v12.1.0 darwin x64',
+  httpProxy: '',
+  httpsProxy: '',
+  strictSSL: true,
+  ca: [],
+  cafile: '',
+  cert: '',
+  key: '',
+  networkConcurrency: 8,
+  networkTimeout: 30000
+}
+verbose 0.149937872 current time: 2020-10-08T14:21:17.905Z
+info Plug'n'Play support has been greatly improved on the Yarn v2 development branch.
+info Please give it a try and tell us what you think! - https://next.yarnpkg.com/getting-started/install
+[1/5] Resolving packages...
+[2/5] Fetching packages...
+verbose 0.401293058 Performing "GET" request to "https://registry.npm.taobao.org/antd/download/antd-4.6.6.tgz?cache=0&sync_timestamp=1601187917083&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fantd%2Fdownload%2Fantd-4.6.6.tgz".
+verbose 0.406261554 Performing "GET" request to "https://registry.npm.taobao.org/array-tree-filter/download/array-tree-filter-2.1.0.tgz".
+verbose 0.420906176 Performing "GET" request to "https://registry.npm.taobao.org/classnames/download/classnames-2.2.6.tgz?cache=0&sync_timestamp=1589682470447&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fclassnames%2Fdownload%2Fclassnames-2.2.6.tgz".
+verbose 0.425641795 Performing "GET" request to "https://registry.npm.taobao.org/@ant-design/colors/download/@ant-design/colors-4.0.5.tgz?cache=0&sync_timestamp=1596611396536&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Fcolors%2Fdownload%2F%40ant-design%2Fcolors-4.0.5.tgz".
+verbose 0.426883073 Performing "GET" request to "https://registry.npm.taobao.org/@babel/runtime/download/@babel/runtime-7.11.2.tgz?cache=0&sync_timestamp=1596637803941&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fruntime%2Fdownload%2F%40babel%2Fruntime-7.11.2.tgz".
+verbose 0.428318285 Performing "GET" request to "https://registry.npm.taobao.org/@ant-design/react-slick/download/@ant-design/react-slick-0.27.10.tgz?cache=0&sync_timestamp=1598086161640&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Freact-slick%2Fdownload%2F%40ant-design%2Freact-slick-0.27.10.tgz".
+verbose 0.429648557 Performing "GET" request to "https://registry.npm.taobao.org/@ant-design/css-animation/download/@ant-design/css-animation-1.7.3.tgz?cache=0&sync_timestamp=1596104787272&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Fcss-animation%2Fdownload%2F%40ant-design%2Fcss-animation-1.7.3.tgz".
+verbose 0.43137101 Performing "GET" request to "https://registry.npm.taobao.org/@ant-design/icons/download/@ant-design/icons-4.2.2.tgz?cache=0&sync_timestamp=1596529281626&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Ficons%2Fdownload%2F%40ant-design%2Ficons-4.2.2.tgz".
+verbose 0.723241908 Performing "GET" request to "https://registry.npm.taobao.org/copy-to-clipboard/download/copy-to-clipboard-3.3.1.tgz".
+verbose 0.745281533 Performing "GET" request to "https://registry.npm.taobao.org/lodash/download/lodash-4.17.20.tgz?cache=0&sync_timestamp=1597336097104&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flodash%2Fdownload%2Flodash-4.17.20.tgz".
+verbose 0.749050121 Performing "GET" request to "https://registry.npm.taobao.org/moment/download/moment-2.29.1.tgz?cache=0&sync_timestamp=1601983423917&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fmoment%2Fdownload%2Fmoment-2.29.1.tgz".
+verbose 0.753907899 Performing "GET" request to "https://registry.npm.taobao.org/omit.js/download/omit.js-2.0.2.tgz".
+verbose 0.862868586 Performing "GET" request to "https://registry.npm.taobao.org/raf/download/raf-3.4.1.tgz".
+verbose 1.054767626 Performing "GET" request to "https://registry.npm.taobao.org/rc-animate/download/rc-animate-3.1.1.tgz?cache=0&sync_timestamp=1601017982378&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-animate%2Fdownload%2Frc-animate-3.1.1.tgz".
+verbose 1.148375063 Performing "GET" request to "https://registry.npm.taobao.org/rc-cascader/download/rc-cascader-1.4.0.tgz?cache=0&sync_timestamp=1600350587681&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-cascader%2Fdownload%2Frc-cascader-1.4.0.tgz".
+verbose 1.201455281 Performing "GET" request to "https://registry.npm.taobao.org/rc-checkbox/download/rc-checkbox-2.3.1.tgz?cache=0&sync_timestamp=1594779783101&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-checkbox%2Fdownload%2Frc-checkbox-2.3.1.tgz".
+verbose 1.257418085 Performing "GET" request to "https://registry.npm.taobao.org/rc-collapse/download/rc-collapse-2.0.1.tgz?cache=0&sync_timestamp=1600493621616&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-collapse%2Fdownload%2Frc-collapse-2.0.1.tgz".
+verbose 1.339338571 Performing "GET" request to "https://registry.npm.taobao.org/rc-dialog/download/rc-dialog-8.2.2.tgz?cache=0&sync_timestamp=1601352120810&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-dialog%2Fdownload%2Frc-dialog-8.2.2.tgz".
+verbose 1.371834635 Performing "GET" request to "https://registry.npm.taobao.org/rc-drawer/download/rc-drawer-4.1.0.tgz?cache=0&sync_timestamp=1591625575252&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-drawer%2Fdownload%2Frc-drawer-4.1.0.tgz".
+verbose 1.386491792 Performing "GET" request to "https://registry.npm.taobao.org/rc-dropdown/download/rc-dropdown-3.2.0.tgz?cache=0&sync_timestamp=1600332796094&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-dropdown%2Fdownload%2Frc-dropdown-3.2.0.tgz".
+verbose 1.463737275 Performing "GET" request to "https://registry.npm.taobao.org/rc-field-form/download/rc-field-form-1.10.1.tgz?cache=0&sync_timestamp=1600399472904&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-field-form%2Fdownload%2Frc-field-form-1.10.1.tgz".
+verbose 1.654903851 Performing "GET" request to "https://registry.npm.taobao.org/rc-image/download/rc-image-3.0.6.tgz?cache=0&sync_timestamp=1601432492873&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-image%2Fdownload%2Frc-image-3.0.6.tgz".
+verbose 1.660725278 Performing "GET" request to "https://registry.npm.taobao.org/rc-input-number/download/rc-input-number-6.0.1.tgz?cache=0&sync_timestamp=1600239646954&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-input-number%2Fdownload%2Frc-input-number-6.0.1.tgz".
+verbose 1.836669161 Performing "GET" request to "https://registry.npm.taobao.org/rc-mentions/download/rc-mentions-1.5.2.tgz?cache=0&sync_timestamp=1601390521043&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-mentions%2Fdownload%2Frc-mentions-1.5.2.tgz".
+verbose 1.903059622 Performing "GET" request to "https://registry.npm.taobao.org/rc-menu/download/rc-menu-8.7.1.tgz?cache=0&sync_timestamp=1600394687050&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-menu%2Fdownload%2Frc-menu-8.7.1.tgz".
+verbose 1.909199023 Performing "GET" request to "https://registry.npm.taobao.org/rc-motion/download/rc-motion-2.3.1.tgz?cache=0&sync_timestamp=1601285787680&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-motion%2Fdownload%2Frc-motion-2.3.1.tgz".
+verbose 1.980440841 Performing "GET" request to "https://registry.npm.taobao.org/rc-notification/download/rc-notification-4.4.0.tgz".
+verbose 2.133095936 Performing "GET" request to "https://registry.npm.taobao.org/rc-pagination/download/rc-pagination-3.0.4.tgz".
+verbose 2.165721203 Performing "GET" request to "https://registry.npm.taobao.org/rc-picker/download/rc-picker-2.1.0.tgz".
+verbose 2.226846024 Performing "GET" request to "https://registry.npm.taobao.org/rc-progress/download/rc-progress-3.1.0.tgz?cache=0&sync_timestamp=1598965852976&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-progress%2Fdownload%2Frc-progress-3.1.0.tgz".
+verbose 2.243429034 Performing "GET" request to "https://registry.npm.taobao.org/rc-rate/download/rc-rate-2.8.2.tgz?cache=0&sync_timestamp=1592195395711&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-rate%2Fdownload%2Frc-rate-2.8.2.tgz".
+verbose 2.377443845 Performing "GET" request to "https://registry.npm.taobao.org/rc-resize-observer/download/rc-resize-observer-0.2.5.tgz?cache=0&sync_timestamp=1597807421644&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-resize-observer%2Fdownload%2Frc-resize-observer-0.2.5.tgz".
+verbose 2.382449812 Performing "GET" request to "https://registry.npm.taobao.org/rc-select/download/rc-select-11.3.3.tgz?cache=0&sync_timestamp=1602165691945&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-select%2Fdownload%2Frc-select-11.3.3.tgz".
+verbose 2.467032404 Performing "GET" request to "https://registry.npm.taobao.org/rc-slider/download/rc-slider-9.5.2.tgz".
+verbose 2.504715447 Performing "GET" request to "https://registry.npm.taobao.org/rc-steps/download/rc-steps-4.1.2.tgz?cache=0&sync_timestamp=1595848847494&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-steps%2Fdownload%2Frc-steps-4.1.2.tgz".
+verbose 2.571197392 Performing "GET" request to "https://registry.npm.taobao.org/rc-switch/download/rc-switch-3.2.1.tgz".
+verbose 2.653381293 Performing "GET" request to "https://registry.npm.taobao.org/rc-table/download/rc-table-7.9.10.tgz?cache=0&sync_timestamp=1600325713392&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-table%2Fdownload%2Frc-table-7.9.10.tgz".
+verbose 2.704754777 Performing "GET" request to "https://registry.npm.taobao.org/rc-tabs/download/rc-tabs-11.6.2.tgz?cache=0&sync_timestamp=1600139001139&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-tabs%2Fdownload%2Frc-tabs-11.6.2.tgz".
+verbose 2.856244849 Performing "GET" request to "https://registry.npm.taobao.org/rc-textarea/download/rc-textarea-0.3.0.tgz?cache=0&sync_timestamp=1594206506647&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-textarea%2Fdownload%2Frc-textarea-0.3.0.tgz".
+verbose 2.880771658 Performing "GET" request to "https://registry.npm.taobao.org/rc-tooltip/download/rc-tooltip-5.0.1.tgz?cache=0&sync_timestamp=1600053411015&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-tooltip%2Fdownload%2Frc-tooltip-5.0.1.tgz".
+verbose 2.933614249 Performing "GET" request to "https://registry.npm.taobao.org/rc-tree/download/rc-tree-3.10.0.tgz?cache=0&sync_timestamp=1600393682308&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-tree%2Fdownload%2Frc-tree-3.10.0.tgz".
+verbose 2.973529232 Performing "GET" request to "https://registry.npm.taobao.org/rc-tree-select/download/rc-tree-select-4.1.2.tgz".
+verbose 3.002469582 Performing "GET" request to "https://registry.npm.taobao.org/rc-trigger/download/rc-trigger-5.0.6.tgz?cache=0&sync_timestamp=1601013775777&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-trigger%2Fdownload%2Frc-trigger-5.0.6.tgz".
+verbose 3.117134033 Performing "GET" request to "https://registry.npm.taobao.org/rc-upload/download/rc-upload-3.3.1.tgz?cache=0&sync_timestamp=1599448657552&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-upload%2Fdownload%2Frc-upload-3.3.1.tgz".
+verbose 3.295399263 Performing "GET" request to "https://registry.npm.taobao.org/rc-util/download/rc-util-5.4.0.tgz".
+verbose 3.489244562 Performing "GET" request to "https://registry.npm.taobao.org/scroll-into-view-if-needed/download/scroll-into-view-if-needed-2.2.26.tgz".
+verbose 3.499668056 Performing "GET" request to "https://registry.npm.taobao.org/warning/download/warning-4.0.3.tgz".
+verbose 3.551241932 Performing "GET" request to "https://registry.npm.taobao.org/tinycolor2/download/tinycolor2-1.4.2.tgz?cache=0&sync_timestamp=1601056446986&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftinycolor2%2Fdownload%2Ftinycolor2-1.4.2.tgz".
+verbose 3.645838436 Performing "GET" request to "https://registry.npm.taobao.org/@ant-design/colors/download/@ant-design/colors-3.2.2.tgz?cache=0&sync_timestamp=1596611396536&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Fcolors%2Fdownload%2F%40ant-design%2Fcolors-3.2.2.tgz".
+verbose 3.660773443 Performing "GET" request to "https://registry.npm.taobao.org/@ant-design/icons-svg/download/@ant-design/icons-svg-4.1.0.tgz".
+verbose 3.750011555 Performing "GET" request to "https://registry.npm.taobao.org/insert-css/download/insert-css-2.0.0.tgz".
+verbose 3.919157978 Performing "GET" request to "https://registry.npm.taobao.org/json2mq/download/json2mq-0.2.0.tgz".
+verbose 3.928216968 Performing "GET" request to "https://registry.npm.taobao.org/resize-observer-polyfill/download/resize-observer-polyfill-1.5.1.tgz".
+verbose 3.979237502 Performing "GET" request to "https://registry.npm.taobao.org/regenerator-runtime/download/regenerator-runtime-0.13.7.tgz?cache=0&sync_timestamp=1595456117883&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fregenerator-runtime%2Fdownload%2Fregenerator-runtime-0.13.7.tgz".
+verbose 4.108583469 Performing "GET" request to "https://registry.npm.taobao.org/toggle-selection/download/toggle-selection-1.0.6.tgz".
+verbose 4.15290329 Performing "GET" request to "https://registry.npm.taobao.org/performance-now/download/performance-now-2.1.0.tgz".
+verbose 4.266656358 Performing "GET" request to "https://registry.npm.taobao.org/rc-util/download/rc-util-4.21.1.tgz".
+verbose 4.297743638 Performing "GET" request to "https://registry.npm.taobao.org/shallowequal/download/shallowequal-1.1.0.tgz".
+verbose 4.395550138 Performing "GET" request to "https://registry.npm.taobao.org/async-validator/download/async-validator-3.4.0.tgz?cache=0&sync_timestamp=1596625258256&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fasync-validator%2Fdownload%2Fasync-validator-3.4.0.tgz".
+verbose 4.404361922 Performing "GET" request to "https://registry.npm.taobao.org/mini-store/download/mini-store-3.0.6.tgz".
+verbose 4.410941677 Performing "GET" request to "https://registry.npm.taobao.org/date-fns/download/date-fns-2.16.1.tgz?cache=0&sync_timestamp=1598884189690&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdate-fns%2Fdownload%2Fdate-fns-2.16.1.tgz".
+verbose 4.531914472 Performing "GET" request to "https://registry.npm.taobao.org/dayjs/download/dayjs-1.9.1.tgz?cache=0&sync_timestamp=1601296772816&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdayjs%2Fdownload%2Fdayjs-1.9.1.tgz".
+verbose 4.554314608 Performing "GET" request to "https://registry.npm.taobao.org/rc-virtual-list/download/rc-virtual-list-3.1.0.tgz?cache=0&sync_timestamp=1600768894853&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-virtual-list%2Fdownload%2Frc-virtual-list-3.1.0.tgz".
+verbose 4.577088719 Performing "GET" request to "https://registry.npm.taobao.org/rc-select/download/rc-select-11.4.1.tgz?cache=0&sync_timestamp=1602165691945&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-select%2Fdownload%2Frc-select-11.4.1.tgz".
+verbose 4.695924313 Performing "GET" request to "https://registry.npm.taobao.org/rc-align/download/rc-align-4.0.8.tgz?cache=0&sync_timestamp=1600919753399&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-align%2Fdownload%2Frc-align-4.0.8.tgz".
+verbose 4.964299649 Performing "GET" request to "https://registry.npm.taobao.org/react-is/download/react-is-16.13.1.tgz?cache=0&sync_timestamp=1602081887213&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-is%2Fdownload%2Freact-is-16.13.1.tgz".
+verbose 4.980310578 Performing "GET" request to "https://registry.npm.taobao.org/compute-scroll-into-view/download/compute-scroll-into-view-1.0.16.tgz?cache=0&sync_timestamp=1599054586438&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcompute-scroll-into-view%2Fdownload%2Fcompute-scroll-into-view-1.0.16.tgz".
+verbose 5.023150929 Performing "GET" request to "https://registry.npm.taobao.org/loose-envify/download/loose-envify-1.4.0.tgz".
+verbose 5.152587182 Performing "GET" request to "https://registry.npm.taobao.org/string-convert/download/string-convert-0.2.1.tgz".
+verbose 5.192879768 Performing "GET" request to "https://registry.npm.taobao.org/add-dom-event-listener/download/add-dom-event-listener-1.1.0.tgz".
+verbose 5.206887878 Performing "GET" request to "https://registry.npm.taobao.org/prop-types/download/prop-types-15.7.2.tgz".
+verbose 5.210700019 Performing "GET" request to "https://registry.npm.taobao.org/react-lifecycles-compat/download/react-lifecycles-compat-3.0.4.tgz".
+verbose 5.382211413 Performing "GET" request to "https://registry.npm.taobao.org/hoist-non-react-statics/download/hoist-non-react-statics-3.3.2.tgz".
+verbose 5.3910762 Performing "GET" request to "https://registry.npm.taobao.org/dom-align/download/dom-align-1.12.0.tgz".
+verbose 5.394053722 Performing "GET" request to "https://registry.npm.taobao.org/js-tokens/download/js-tokens-4.0.0.tgz".
+verbose 5.493315094 Performing "GET" request to "https://registry.npm.taobao.org/object-assign/download/object-assign-4.1.1.tgz".
+verbose 5.560859437 Performing "GET" request to "https://registry.npm.taobao.org/react/download/react-16.13.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact%2Fdownload%2Freact-16.13.1.tgz".
+verbose 5.595455865 Performing "GET" request to "https://registry.npm.taobao.org/react-dom/download/react-dom-16.13.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-dom%2Fdownload%2Freact-dom-16.13.1.tgz".
+verbose 5.622188966 Performing "GET" request to "https://registry.npm.taobao.org/scheduler/download/scheduler-0.19.1.tgz?cache=0&sync_timestamp=1602081682961&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fscheduler%2Fdownload%2Fscheduler-0.19.1.tgz".
+verbose 5.672138284 Performing "GET" request to "https://registry.npm.taobao.org/@babel/core/download/@babel/core-7.11.6.tgz?cache=0&sync_timestamp=1599146819802&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fcore%2Fdownload%2F%40babel%2Fcore-7.11.6.tgz".
+verbose 5.866545634 Performing "GET" request to "https://registry.npm.taobao.org/@babel/code-frame/download/@babel/code-frame-7.10.4.tgz".
+verbose 5.944239511 Performing "GET" request to "https://registry.npm.taobao.org/@babel/generator/download/@babel/generator-7.11.6.tgz?cache=0&sync_timestamp=1599146811213&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fgenerator%2Fdownload%2F%40babel%2Fgenerator-7.11.6.tgz".
+verbose 5.98696473 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-module-transforms/download/@babel/helper-module-transforms-7.11.0.tgz?cache=0&sync_timestamp=1596142927697&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-module-transforms%2Fdownload%2F%40babel%2Fhelper-module-transforms-7.11.0.tgz".
+verbose 6.009386497 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helpers/download/@babel/helpers-7.10.4.tgz".
+verbose 6.083352407 Performing "GET" request to "https://registry.npm.taobao.org/@babel/parser/download/@babel/parser-7.11.5.tgz?cache=0&sync_timestamp=1598904421668&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fparser%2Fdownload%2F%40babel%2Fparser-7.11.5.tgz".
+verbose 6.113606966 Performing "GET" request to "https://registry.npm.taobao.org/@babel/template/download/@babel/template-7.10.4.tgz".
+verbose 6.12529004 Performing "GET" request to "https://registry.npm.taobao.org/@babel/traverse/download/@babel/traverse-7.11.5.tgz".
+verbose 6.146276411 Performing "GET" request to "https://registry.npm.taobao.org/@babel/types/download/@babel/types-7.11.5.tgz".
+verbose 6.255934547 Performing "GET" request to "https://registry.npm.taobao.org/convert-source-map/download/convert-source-map-1.7.0.tgz".
+verbose 6.261927429 Performing "GET" request to "https://registry.npm.taobao.org/debug/download/debug-4.2.0.tgz?cache=0&sync_timestamp=1600502873540&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdebug%2Fdownload%2Fdebug-4.2.0.tgz".
+verbose 6.408466182 Performing "GET" request to "https://registry.npm.taobao.org/gensync/download/gensync-1.0.0-beta.1.tgz".
+verbose 6.422052637 Performing "GET" request to "https://registry.npm.taobao.org/json5/download/json5-2.1.3.tgz".
+verbose 6.464886737 Performing "GET" request to "https://registry.npm.taobao.org/resolve/download/resolve-1.17.0.tgz".
+verbose 6.551770141 Performing "GET" request to "https://registry.npm.taobao.org/semver/download/semver-5.7.1.tgz".
+verbose 6.619098752 Performing "GET" request to "https://registry.npm.taobao.org/source-map/download/source-map-0.5.7.tgz".
+verbose 6.644654385 Performing "GET" request to "https://registry.npm.taobao.org/@babel/highlight/download/@babel/highlight-7.10.4.tgz?cache=0&sync_timestamp=1593522818552&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhighlight%2Fdownload%2F%40babel%2Fhighlight-7.10.4.tgz".
+verbose 6.750385496 Performing "GET" request to "https://registry.npm.taobao.org/jsesc/download/jsesc-2.5.2.tgz".
+verbose 6.759786067 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-module-imports/download/@babel/helper-module-imports-7.10.4.tgz".
+verbose 6.833415379 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-replace-supers/download/@babel/helper-replace-supers-7.10.4.tgz".
+verbose 6.909987482 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-simple-access/download/@babel/helper-simple-access-7.10.4.tgz".
+verbose 6.91147266 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-split-export-declaration/download/@babel/helper-split-export-declaration-7.11.0.tgz?cache=0&sync_timestamp=1596142927868&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-split-export-declaration%2Fdownload%2F%40babel%2Fhelper-split-export-declaration-7.11.0.tgz".
+verbose 6.962579611 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-function-name/download/@babel/helper-function-name-7.10.4.tgz".
+verbose 6.976923163 Performing "GET" request to "https://registry.npm.taobao.org/globals/download/globals-11.12.0.tgz?cache=0&sync_timestamp=1596709369054&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fglobals%2Fdownload%2Fglobals-11.12.0.tgz".
+verbose 7.02794141 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-validator-identifier/download/@babel/helper-validator-identifier-7.10.4.tgz?cache=0&sync_timestamp=1593522720715&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-validator-identifier%2Fdownload%2F%40babel%2Fhelper-validator-identifier-7.10.4.tgz".
+verbose 7.087165643 Performing "GET" request to "https://registry.npm.taobao.org/to-fast-properties/download/to-fast-properties-2.0.0.tgz".
+verbose 7.089714117 Performing "GET" request to "https://registry.npm.taobao.org/safe-buffer/download/safe-buffer-5.1.2.tgz".
+verbose 7.150640383 Performing "GET" request to "https://registry.npm.taobao.org/ms/download/ms-2.1.2.tgz".
+verbose 7.20946055 Performing "GET" request to "https://registry.npm.taobao.org/minimist/download/minimist-1.2.5.tgz".
+verbose 7.248757817 Performing "GET" request to "https://registry.npm.taobao.org/path-parse/download/path-parse-1.0.6.tgz".
+verbose 7.25362776 Performing "GET" request to "https://registry.npm.taobao.org/chalk/download/chalk-2.4.2.tgz".
+verbose 7.257050897 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-member-expression-to-functions/download/@babel/helper-member-expression-to-functions-7.11.0.tgz?cache=0&sync_timestamp=1596144651395&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-member-expression-to-functions%2Fdownload%2F%40babel%2Fhelper-member-expression-to-functions-7.11.0.tgz".
+verbose 7.319131921 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-optimise-call-expression/download/@babel/helper-optimise-call-expression-7.10.4.tgz?cache=0&sync_timestamp=1593522827576&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-optimise-call-expression%2Fdownload%2F%40babel%2Fhelper-optimise-call-expression-7.10.4.tgz".
+verbose 7.340846194 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-get-function-arity/download/@babel/helper-get-function-arity-7.10.4.tgz?cache=0&sync_timestamp=1593522827189&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-get-function-arity%2Fdownload%2F%40babel%2Fhelper-get-function-arity-7.10.4.tgz".
+verbose 7.352075363 Performing "GET" request to "https://registry.npm.taobao.org/ansi-styles/download/ansi-styles-3.2.1.tgz".
+verbose 7.379264287 Performing "GET" request to "https://registry.npm.taobao.org/escape-string-regexp/download/escape-string-regexp-1.0.5.tgz".
+verbose 7.425212117 Performing "GET" request to "https://registry.npm.taobao.org/supports-color/download/supports-color-5.5.0.tgz?cache=0&sync_timestamp=1598611719015&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsupports-color%2Fdownload%2Fsupports-color-5.5.0.tgz".
+verbose 7.43800289 Performing "GET" request to "https://registry.npm.taobao.org/color-convert/download/color-convert-1.9.3.tgz".
+verbose 7.460580023 Performing "GET" request to "https://registry.npm.taobao.org/has-flag/download/has-flag-3.0.0.tgz".
+verbose 7.47145278 Performing "GET" request to "https://registry.npm.taobao.org/color-name/download/color-name-1.1.3.tgz".
+verbose 7.489558261 Performing "GET" request to "https://registry.npm.taobao.org/@babel/preset-env/download/@babel/preset-env-7.11.5.tgz".
+verbose 7.53094496 Performing "GET" request to "https://registry.npm.taobao.org/@babel/compat-data/download/@babel/compat-data-7.11.0.tgz".
+verbose 7.540855272 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-compilation-targets/download/@babel/helper-compilation-targets-7.10.4.tgz?cache=0&sync_timestamp=1593522816195&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-compilation-targets%2Fdownload%2F%40babel%2Fhelper-compilation-targets-7.10.4.tgz".
+verbose 7.577460919 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-plugin-utils/download/@babel/helper-plugin-utils-7.10.4.tgz?cache=0&sync_timestamp=1593521148758&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-plugin-utils%2Fdownload%2F%40babel%2Fhelper-plugin-utils-7.10.4.tgz".
+verbose 7.633699909 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-async-generator-functions/download/@babel/plugin-proposal-async-generator-functions-7.10.5.tgz".
+verbose 7.648933915 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-class-properties/download/@babel/plugin-proposal-class-properties-7.10.4.tgz?cache=0&sync_timestamp=1593522946305&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-class-properties%2Fdownload%2F%40babel%2Fplugin-proposal-class-properties-7.10.4.tgz".
+verbose 7.666901375 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-dynamic-import/download/@babel/plugin-proposal-dynamic-import-7.10.4.tgz?cache=0&sync_timestamp=1593521117836&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-dynamic-import%2Fdownload%2F%40babel%2Fplugin-proposal-dynamic-import-7.10.4.tgz".
+verbose 7.691883308 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-export-namespace-from/download/@babel/plugin-proposal-export-namespace-from-7.10.4.tgz?cache=0&sync_timestamp=1593522795481&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-export-namespace-from%2Fdownload%2F%40babel%2Fplugin-proposal-export-namespace-from-7.10.4.tgz".
+verbose 7.69842944 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-json-strings/download/@babel/plugin-proposal-json-strings-7.10.4.tgz?cache=0&sync_timestamp=1593521072686&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-json-strings%2Fdownload%2F%40babel%2Fplugin-proposal-json-strings-7.10.4.tgz".
+verbose 7.718432515 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-logical-assignment-operators/download/@babel/plugin-proposal-logical-assignment-operators-7.11.0.tgz".
+verbose 7.756479973 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-nullish-coalescing-operator/download/@babel/plugin-proposal-nullish-coalescing-operator-7.10.4.tgz?cache=0&sync_timestamp=1593521118939&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-nullish-coalescing-operator%2Fdownload%2F%40babel%2Fplugin-proposal-nullish-coalescing-operator-7.10.4.tgz".
+verbose 7.772015602 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-numeric-separator/download/@babel/plugin-proposal-numeric-separator-7.10.4.tgz?cache=0&sync_timestamp=1593522949557&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-numeric-separator%2Fdownload%2F%40babel%2Fplugin-proposal-numeric-separator-7.10.4.tgz".
+verbose 7.774182678 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-object-rest-spread/download/@babel/plugin-proposal-object-rest-spread-7.11.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-object-rest-spread%2Fdownload%2F%40babel%2Fplugin-proposal-object-rest-spread-7.11.0.tgz".
+verbose 7.807221567 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-optional-catch-binding/download/@babel/plugin-proposal-optional-catch-binding-7.10.4.tgz?cache=0&sync_timestamp=1593522756062&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-optional-catch-binding%2Fdownload%2F%40babel%2Fplugin-proposal-optional-catch-binding-7.10.4.tgz".
+verbose 7.808383449 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-optional-chaining/download/@babel/plugin-proposal-optional-chaining-7.11.0.tgz?cache=0&sync_timestamp=1596142928022&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-optional-chaining%2Fdownload%2F%40babel%2Fplugin-proposal-optional-chaining-7.11.0.tgz".
+verbose 7.849570693 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-private-methods/download/@babel/plugin-proposal-private-methods-7.10.4.tgz?cache=0&sync_timestamp=1593521310990&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-private-methods%2Fdownload%2F%40babel%2Fplugin-proposal-private-methods-7.10.4.tgz".
+verbose 7.8508841 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-proposal-unicode-property-regex/download/@babel/plugin-proposal-unicode-property-regex-7.10.4.tgz".
+verbose 7.877188651 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-async-generators/download/@babel/plugin-syntax-async-generators-7.8.4.tgz".
+verbose 7.899758209 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-class-properties/download/@babel/plugin-syntax-class-properties-7.10.4.tgz?cache=0&sync_timestamp=1593522817483&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-syntax-class-properties%2Fdownload%2F%40babel%2Fplugin-syntax-class-properties-7.10.4.tgz".
+verbose 7.905531036 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-dynamic-import/download/@babel/plugin-syntax-dynamic-import-7.8.3.tgz".
+verbose 7.920915643 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-export-namespace-from/download/@babel/plugin-syntax-export-namespace-from-7.8.3.tgz".
+verbose 7.92931261 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-json-strings/download/@babel/plugin-syntax-json-strings-7.8.3.tgz".
+verbose 7.96321763 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-logical-assignment-operators/download/@babel/plugin-syntax-logical-assignment-operators-7.10.4.tgz?cache=0&sync_timestamp=1593522984333&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-syntax-logical-assignment-operators%2Fdownload%2F%40babel%2Fplugin-syntax-logical-assignment-operators-7.10.4.tgz".
+verbose 7.999649251 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-nullish-coalescing-operator/download/@babel/plugin-syntax-nullish-coalescing-operator-7.8.3.tgz".
+verbose 8.012279636 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-numeric-separator/download/@babel/plugin-syntax-numeric-separator-7.10.4.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-syntax-numeric-separator%2Fdownload%2F%40babel%2Fplugin-syntax-numeric-separator-7.10.4.tgz".
+verbose 8.029189655 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-object-rest-spread/download/@babel/plugin-syntax-object-rest-spread-7.8.3.tgz".
+verbose 8.031640289 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-optional-catch-binding/download/@babel/plugin-syntax-optional-catch-binding-7.8.3.tgz".
+verbose 8.03826029 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-optional-chaining/download/@babel/plugin-syntax-optional-chaining-7.8.3.tgz".
+verbose 8.043865752 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-syntax-top-level-await/download/@babel/plugin-syntax-top-level-await-7.10.4.tgz?cache=0&sync_timestamp=1593522992017&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-syntax-top-level-await%2Fdownload%2F%40babel%2Fplugin-syntax-top-level-await-7.10.4.tgz".
+verbose 8.091694522 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-arrow-functions/download/@babel/plugin-transform-arrow-functions-7.10.4.tgz".
+verbose 8.125898205 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-async-to-generator/download/@babel/plugin-transform-async-to-generator-7.10.4.tgz?cache=0&sync_timestamp=1593522851748&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-async-to-generator%2Fdownload%2F%40babel%2Fplugin-transform-async-to-generator-7.10.4.tgz".
+verbose 8.139269267 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-block-scoped-functions/download/@babel/plugin-transform-block-scoped-functions-7.10.4.tgz?cache=0&sync_timestamp=1593521990101&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-block-scoped-functions%2Fdownload%2F%40babel%2Fplugin-transform-block-scoped-functions-7.10.4.tgz".
+verbose 8.142434321 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-block-scoping/download/@babel/plugin-transform-block-scoping-7.11.1.tgz?cache=0&sync_timestamp=1596578803980&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-block-scoping%2Fdownload%2F%40babel%2Fplugin-transform-block-scoping-7.11.1.tgz".
+verbose 8.156155486 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-classes/download/@babel/plugin-transform-classes-7.10.4.tgz?cache=0&sync_timestamp=1593522856487&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-classes%2Fdownload%2F%40babel%2Fplugin-transform-classes-7.10.4.tgz".
+verbose 8.160265742 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-computed-properties/download/@babel/plugin-transform-computed-properties-7.10.4.tgz".
+verbose 8.221995318 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-destructuring/download/@babel/plugin-transform-destructuring-7.10.4.tgz".
+verbose 8.228631128 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-dotall-regex/download/@babel/plugin-transform-dotall-regex-7.10.4.tgz".
+verbose 8.251346011 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-duplicate-keys/download/@babel/plugin-transform-duplicate-keys-7.10.4.tgz".
+verbose 8.254748098 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-exponentiation-operator/download/@babel/plugin-transform-exponentiation-operator-7.10.4.tgz?cache=0&sync_timestamp=1593522967206&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-exponentiation-operator%2Fdownload%2F%40babel%2Fplugin-transform-exponentiation-operator-7.10.4.tgz".
+verbose 8.25828596 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-for-of/download/@babel/plugin-transform-for-of-7.10.4.tgz?cache=0&sync_timestamp=1593521205142&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-for-of%2Fdownload%2F%40babel%2Fplugin-transform-for-of-7.10.4.tgz".
+verbose 8.26880216 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-function-name/download/@babel/plugin-transform-function-name-7.10.4.tgz".
+verbose 8.283019121 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-literals/download/@babel/plugin-transform-literals-7.10.4.tgz?cache=0&sync_timestamp=1593521205335&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-literals%2Fdownload%2F%40babel%2Fplugin-transform-literals-7.10.4.tgz".
+verbose 8.336462357 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-member-expression-literals/download/@babel/plugin-transform-member-expression-literals-7.10.4.tgz?cache=0&sync_timestamp=1593521257832&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-member-expression-literals%2Fdownload%2F%40babel%2Fplugin-transform-member-expression-literals-7.10.4.tgz".
+verbose 8.340697471 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-modules-amd/download/@babel/plugin-transform-modules-amd-7.10.5.tgz?cache=0&sync_timestamp=1594749164106&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-modules-amd%2Fdownload%2F%40babel%2Fplugin-transform-modules-amd-7.10.5.tgz".
+verbose 8.365670021 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-modules-commonjs/download/@babel/plugin-transform-modules-commonjs-7.10.4.tgz".
+verbose 8.368812012 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-modules-systemjs/download/@babel/plugin-transform-modules-systemjs-7.10.5.tgz?cache=0&sync_timestamp=1594749163311&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-modules-systemjs%2Fdownload%2F%40babel%2Fplugin-transform-modules-systemjs-7.10.5.tgz".
+verbose 8.370290037 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-modules-umd/download/@babel/plugin-transform-modules-umd-7.10.4.tgz".
+verbose 8.381310212 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-named-capturing-groups-regex/download/@babel/plugin-transform-named-capturing-groups-regex-7.10.4.tgz".
+verbose 8.385831495 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-new-target/download/@babel/plugin-transform-new-target-7.10.4.tgz?cache=0&sync_timestamp=1593521205540&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-new-target%2Fdownload%2F%40babel%2Fplugin-transform-new-target-7.10.4.tgz".
+verbose 8.394914844 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-object-super/download/@babel/plugin-transform-object-super-7.10.4.tgz?cache=0&sync_timestamp=1593522848107&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-object-super%2Fdownload%2F%40babel%2Fplugin-transform-object-super-7.10.4.tgz".
+verbose 8.491178502 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-parameters/download/@babel/plugin-transform-parameters-7.10.5.tgz".
+verbose 8.492408645 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-property-literals/download/@babel/plugin-transform-property-literals-7.10.4.tgz?cache=0&sync_timestamp=1593521258372&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-property-literals%2Fdownload%2F%40babel%2Fplugin-transform-property-literals-7.10.4.tgz".
+verbose 8.49394833 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-regenerator/download/@babel/plugin-transform-regenerator-7.10.4.tgz?cache=0&sync_timestamp=1593521070883&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-regenerator%2Fdownload%2F%40babel%2Fplugin-transform-regenerator-7.10.4.tgz".
+verbose 8.499621644 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-reserved-words/download/@babel/plugin-transform-reserved-words-7.10.4.tgz?cache=0&sync_timestamp=1593522816859&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-reserved-words%2Fdownload%2F%40babel%2Fplugin-transform-reserved-words-7.10.4.tgz".
+verbose 8.50366462 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-shorthand-properties/download/@babel/plugin-transform-shorthand-properties-7.10.4.tgz?cache=0&sync_timestamp=1593521207009&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-shorthand-properties%2Fdownload%2F%40babel%2Fplugin-transform-shorthand-properties-7.10.4.tgz".
+verbose 8.506156299 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-spread/download/@babel/plugin-transform-spread-7.11.0.tgz?cache=0&sync_timestamp=1596142928262&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-spread%2Fdownload%2F%40babel%2Fplugin-transform-spread-7.11.0.tgz".
+verbose 8.508286948 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-sticky-regex/download/@babel/plugin-transform-sticky-regex-7.10.4.tgz".
+verbose 8.571274988 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-template-literals/download/@babel/plugin-transform-template-literals-7.10.5.tgz".
+verbose 8.601471041 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-typeof-symbol/download/@babel/plugin-transform-typeof-symbol-7.10.4.tgz".
+verbose 8.603387652 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-unicode-escapes/download/@babel/plugin-transform-unicode-escapes-7.10.4.tgz?cache=0&sync_timestamp=1593521262862&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-transform-unicode-escapes%2Fdownload%2F%40babel%2Fplugin-transform-unicode-escapes-7.10.4.tgz".
+verbose 8.622358014 Performing "GET" request to "https://registry.npm.taobao.org/@babel/plugin-transform-unicode-regex/download/@babel/plugin-transform-unicode-regex-7.10.4.tgz".
+verbose 8.623761145 Performing "GET" request to "https://registry.npm.taobao.org/@babel/preset-modules/download/@babel/preset-modules-0.1.4.tgz?cache=0&sync_timestamp=1598549824644&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fpreset-modules%2Fdownload%2F%40babel%2Fpreset-modules-0.1.4.tgz".
+verbose 8.624595012 Performing "GET" request to "https://registry.npm.taobao.org/browserslist/download/browserslist-4.14.5.tgz".
+verbose 8.627415705 Performing "GET" request to "https://registry.npm.taobao.org/core-js-compat/download/core-js-compat-3.6.5.tgz".
+verbose 8.636237501 Performing "GET" request to "https://registry.npm.taobao.org/invariant/download/invariant-2.2.4.tgz".
+verbose 8.717728455 Performing "GET" request to "https://registry.npm.taobao.org/levenary/download/levenary-1.1.1.tgz".
+verbose 8.718817056 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-remap-async-to-generator/download/@babel/helper-remap-async-to-generator-7.11.4.tgz".
+verbose 8.721408847 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-create-class-features-plugin/download/@babel/helper-create-class-features-plugin-7.10.5.tgz?cache=0&sync_timestamp=1594749163935&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-create-class-features-plugin%2Fdownload%2F%40babel%2Fhelper-create-class-features-plugin-7.10.5.tgz".
+verbose 8.727066784 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-skip-transparent-expression-wrappers/download/@babel/helper-skip-transparent-expression-wrappers-7.11.0.tgz?cache=0&sync_timestamp=1596142927780&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-skip-transparent-expression-wrappers%2Fdownload%2F%40babel%2Fhelper-skip-transparent-expression-wrappers-7.11.0.tgz".
+verbose 8.749336889 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-create-regexp-features-plugin/download/@babel/helper-create-regexp-features-plugin-7.10.4.tgz?cache=0&sync_timestamp=1593522831219&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-create-regexp-features-plugin%2Fdownload%2F%40babel%2Fhelper-create-regexp-features-plugin-7.10.4.tgz".
+verbose 8.758341404 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-annotate-as-pure/download/@babel/helper-annotate-as-pure-7.10.4.tgz?cache=0&sync_timestamp=1593522826156&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-annotate-as-pure%2Fdownload%2F%40babel%2Fhelper-annotate-as-pure-7.10.4.tgz".
+verbose 8.796210982 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-define-map/download/@babel/helper-define-map-7.10.5.tgz".
+verbose 8.804767679 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-builder-binary-assignment-operator-visitor/download/@babel/helper-builder-binary-assignment-operator-visitor-7.10.4.tgz".
+verbose 8.829247048 Performing "GET" request to "https://registry.npm.taobao.org/babel-plugin-dynamic-import-node/download/babel-plugin-dynamic-import-node-2.3.3.tgz".
+verbose 8.830850103 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-hoist-variables/download/@babel/helper-hoist-variables-7.10.4.tgz?cache=0&sync_timestamp=1593521209226&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-hoist-variables%2Fdownload%2F%40babel%2Fhelper-hoist-variables-7.10.4.tgz".
+verbose 8.842168151 Performing "GET" request to "https://registry.npm.taobao.org/regenerator-transform/download/regenerator-transform-0.14.5.tgz".
+verbose 8.859707096 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-regex/download/@babel/helper-regex-7.10.5.tgz?cache=0&sync_timestamp=1594749174690&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-regex%2Fdownload%2F%40babel%2Fhelper-regex-7.10.5.tgz".
+verbose 8.873311529 Performing "GET" request to "https://registry.npm.taobao.org/esutils/download/esutils-2.0.3.tgz".
+verbose 8.903358655 Performing "GET" request to "https://registry.npm.taobao.org/caniuse-lite/download/caniuse-lite-1.0.30001146.tgz".
+verbose 8.914063819 Performing "GET" request to "https://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.578.tgz".
+verbose 8.944717936 Performing "GET" request to "https://registry.npm.taobao.org/escalade/download/escalade-3.1.0.tgz?cache=0&sync_timestamp=1600103337623&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fescalade%2Fdownload%2Fescalade-3.1.0.tgz".
+verbose 8.952777029 Performing "GET" request to "https://registry.npm.taobao.org/node-releases/download/node-releases-1.1.61.tgz?cache=0&sync_timestamp=1599612952711&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fnode-releases%2Fdownload%2Fnode-releases-1.1.61.tgz".
+verbose 8.963666354 Performing "GET" request to "https://registry.npm.taobao.org/semver/download/semver-7.0.0.tgz".
+verbose 8.967414509 Performing "GET" request to "https://registry.npm.taobao.org/leven/download/leven-3.1.0.tgz".
+verbose 8.980020034 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-wrap-function/download/@babel/helper-wrap-function-7.10.4.tgz".
+verbose 8.983190726 Performing "GET" request to "https://registry.npm.taobao.org/regexpu-core/download/regexpu-core-4.7.1.tgz?cache=0&sync_timestamp=1600413529161&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fregexpu-core%2Fdownload%2Fregexpu-core-4.7.1.tgz".
+verbose 9.060719071 Performing "GET" request to "https://registry.npm.taobao.org/@babel/helper-explode-assignable-expression/download/@babel/helper-explode-assignable-expression-7.11.4.tgz?cache=0&sync_timestamp=1597948528737&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fhelper-explode-assignable-expression%2Fdownload%2F%40babel%2Fhelper-explode-assignable-expression-7.11.4.tgz".
+verbose 9.063737349 Performing "GET" request to "https://registry.npm.taobao.org/object.assign/download/object.assign-4.1.1.tgz?cache=0&sync_timestamp=1599844895115&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fobject.assign%2Fdownload%2Fobject.assign-4.1.1.tgz".
+verbose 9.079881981 Performing "GET" request to "https://registry.npm.taobao.org/regenerate/download/regenerate-1.4.1.tgz".
+verbose 9.088813852 Performing "GET" request to "https://registry.npm.taobao.org/regenerate-unicode-properties/download/regenerate-unicode-properties-8.2.0.tgz".
+verbose 9.092650393 Performing "GET" request to "https://registry.npm.taobao.org/regjsgen/download/regjsgen-0.5.2.tgz?cache=0&sync_timestamp=1590335923060&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fregjsgen%2Fdownload%2Fregjsgen-0.5.2.tgz".
+verbose 9.099127599 Performing "GET" request to "https://registry.npm.taobao.org/regjsparser/download/regjsparser-0.6.4.tgz".
+verbose 9.114312624 Performing "GET" request to "https://registry.npm.taobao.org/unicode-match-property-ecmascript/download/unicode-match-property-ecmascript-1.0.4.tgz".
+verbose 9.196724979 Performing "GET" request to "https://registry.npm.taobao.org/unicode-match-property-value-ecmascript/download/unicode-match-property-value-ecmascript-1.2.0.tgz".
+verbose 9.222693189 Performing "GET" request to "https://registry.npm.taobao.org/define-properties/download/define-properties-1.1.3.tgz".
+verbose 9.226752197 Performing "GET" request to "https://registry.npm.taobao.org/es-abstract/download/es-abstract-1.18.0-next.1.tgz".
+verbose 9.241242839 Performing "GET" request to "https://registry.npm.taobao.org/has-symbols/download/has-symbols-1.0.1.tgz".
+verbose 9.255108729 Performing "GET" request to "https://registry.npm.taobao.org/object-keys/download/object-keys-1.1.1.tgz".
+verbose 9.325482952 Performing "GET" request to "https://registry.npm.taobao.org/jsesc/download/jsesc-0.5.0.tgz".
+verbose 9.339045542 Performing "GET" request to "https://registry.npm.taobao.org/unicode-canonical-property-names-ecmascript/download/unicode-canonical-property-names-ecmascript-1.0.4.tgz".
+verbose 9.361397096 Performing "GET" request to "https://registry.npm.taobao.org/unicode-property-aliases-ecmascript/download/unicode-property-aliases-ecmascript-1.1.0.tgz".
+verbose 9.390028337 Performing "GET" request to "https://registry.npm.taobao.org/es-to-primitive/download/es-to-primitive-1.2.1.tgz".
+verbose 9.394515553 Performing "GET" request to "https://registry.npm.taobao.org/function-bind/download/function-bind-1.1.1.tgz".
+verbose 9.4211507 Performing "GET" request to "https://registry.npm.taobao.org/has/download/has-1.0.3.tgz".
+verbose 9.476339095 Performing "GET" request to "https://registry.npm.taobao.org/is-callable/download/is-callable-1.2.2.tgz?cache=0&sync_timestamp=1600721424274&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fis-callable%2Fdownload%2Fis-callable-1.2.2.tgz".
+verbose 9.486132095 Performing "GET" request to "https://registry.npm.taobao.org/is-negative-zero/download/is-negative-zero-2.0.0.tgz".
+verbose 9.488232614 Performing "GET" request to "https://registry.npm.taobao.org/is-regex/download/is-regex-1.1.1.tgz?cache=0&sync_timestamp=1596555650246&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fis-regex%2Fdownload%2Fis-regex-1.1.1.tgz".
+verbose 9.530955983 Performing "GET" request to "https://registry.npm.taobao.org/object-inspect/download/object-inspect-1.8.0.tgz?cache=0&sync_timestamp=1592545152574&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fobject-inspect%2Fdownload%2Fobject-inspect-1.8.0.tgz".
+verbose 9.545298888 Performing "GET" request to "https://registry.npm.taobao.org/string.prototype.trimend/download/string.prototype.trimend-1.0.1.tgz".
+verbose 9.588573334 Performing "GET" request to "https://registry.npm.taobao.org/string.prototype.trimstart/download/string.prototype.trimstart-1.0.1.tgz".
+verbose 9.605232619 Performing "GET" request to "https://registry.npm.taobao.org/is-date-object/download/is-date-object-1.0.2.tgz".
+verbose 9.607610963 Performing "GET" request to "https://registry.npm.taobao.org/is-symbol/download/is-symbol-1.0.3.tgz".
+verbose 9.615115921 Performing "GET" request to "https://registry.npm.taobao.org/es-abstract/download/es-abstract-1.17.7.tgz".
+verbose 9.684469317 Performing "GET" request to "https://registry.npm.taobao.org/babel-loader/download/babel-loader-8.1.0.tgz".
+verbose 9.710603931 Performing "GET" request to "https://registry.npm.taobao.org/find-cache-dir/download/find-cache-dir-2.1.0.tgz".
+verbose 9.715445929 Performing "GET" request to "https://registry.npm.taobao.org/loader-utils/download/loader-utils-1.4.0.tgz".
+verbose 9.752867852 Performing "GET" request to "https://registry.npm.taobao.org/mkdirp/download/mkdirp-0.5.5.tgz".
+verbose 9.777438421 Performing "GET" request to "https://registry.npm.taobao.org/pify/download/pify-4.0.1.tgz".
+verbose 9.786999398 Performing "GET" request to "https://registry.npm.taobao.org/schema-utils/download/schema-utils-2.7.1.tgz?cache=0&sync_timestamp=1601922251376&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fschema-utils%2Fdownload%2Fschema-utils-2.7.1.tgz".
+verbose 9.816252475 Performing "GET" request to "https://registry.npm.taobao.org/commondir/download/commondir-1.0.1.tgz".
+verbose 9.830328128 Performing "GET" request to "https://registry.npm.taobao.org/make-dir/download/make-dir-2.1.0.tgz".
+verbose 9.860222203 Performing "GET" request to "https://registry.npm.taobao.org/pkg-dir/download/pkg-dir-3.0.0.tgz".
+verbose 9.867731176 Performing "GET" request to "https://registry.npm.taobao.org/big.js/download/big.js-5.2.2.tgz".
+verbose 9.894604095 Performing "GET" request to "https://registry.npm.taobao.org/emojis-list/download/emojis-list-3.0.0.tgz".
+verbose 9.921819152 Performing "GET" request to "https://registry.npm.taobao.org/json5/download/json5-1.0.1.tgz".
+verbose 9.928457653 Performing "GET" request to "https://registry.npm.taobao.org/@types/json-schema/download/@types/json-schema-7.0.6.tgz".
+verbose 9.947185162 Performing "GET" request to "https://registry.npm.taobao.org/ajv/download/ajv-6.12.5.tgz?cache=0&sync_timestamp=1600886864349&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fajv%2Fdownload%2Fajv-6.12.5.tgz".
+verbose 9.972715097 Performing "GET" request to "https://registry.npm.taobao.org/ajv-keywords/download/ajv-keywords-3.5.2.tgz".
+verbose 9.998044598 Performing "GET" request to "https://registry.npm.taobao.org/find-up/download/find-up-3.0.0.tgz?cache=0&sync_timestamp=1597756298124&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ffind-up%2Fdownload%2Ffind-up-3.0.0.tgz".
+verbose 10.003693754 Performing "GET" request to "https://registry.npm.taobao.org/fast-deep-equal/download/fast-deep-equal-3.1.3.tgz".
+verbose 10.027757939 Performing "GET" request to "https://registry.npm.taobao.org/fast-json-stable-stringify/download/fast-json-stable-stringify-2.1.0.tgz".
+verbose 10.039714095 Performing "GET" request to "https://registry.npm.taobao.org/json-schema-traverse/download/json-schema-traverse-0.4.1.tgz?cache=0&sync_timestamp=1599334207614&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fjson-schema-traverse%2Fdownload%2Fjson-schema-traverse-0.4.1.tgz".
+verbose 10.048449421 Performing "GET" request to "https://registry.npm.taobao.org/uri-js/download/uri-js-4.4.0.tgz?cache=0&sync_timestamp=1598814377097&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Furi-js%2Fdownload%2Furi-js-4.4.0.tgz".
+verbose 10.089024075 Performing "GET" request to "https://registry.npm.taobao.org/locate-path/download/locate-path-3.0.0.tgz?cache=0&sync_timestamp=1597081904643&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flocate-path%2Fdownload%2Flocate-path-3.0.0.tgz".
+verbose 10.113506615 Performing "GET" request to "https://registry.npm.taobao.org/punycode/download/punycode-2.1.1.tgz".
+verbose 10.118891885 Performing "GET" request to "https://registry.npm.taobao.org/p-locate/download/p-locate-3.0.0.tgz?cache=0&sync_timestamp=1597081785924&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fp-locate%2Fdownload%2Fp-locate-3.0.0.tgz".
+verbose 10.124641841 Performing "GET" request to "https://registry.npm.taobao.org/path-exists/download/path-exists-3.0.0.tgz".
+verbose 10.152904136 Performing "GET" request to "https://registry.npm.taobao.org/p-limit/download/p-limit-2.3.0.tgz?cache=0&sync_timestamp=1594559720897&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fp-limit%2Fdownload%2Fp-limit-2.3.0.tgz".
+verbose 10.206235512 Performing "GET" request to "https://registry.npm.taobao.org/p-try/download/p-try-2.2.0.tgz".
+verbose 10.214391546 Performing "GET" request to "https://registry.npm.taobao.org/typescript/download/typescript-4.0.3.tgz?cache=0&sync_timestamp=1602141526326&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftypescript%2Fdownload%2Ftypescript-4.0.3.tgz".
+verbose 10.223641595 Performing "GET" request to "https://registry.npm.taobao.org/webpack/download/webpack-4.44.2.tgz".
+verbose 10.232692592 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/ast/download/@webassemblyjs/ast-1.9.0.tgz".
+verbose 10.234522566 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/helper-module-context/download/@webassemblyjs/helper-module-context-1.9.0.tgz".
+verbose 10.292265703 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/wasm-edit/download/@webassemblyjs/wasm-edit-1.9.0.tgz".
+verbose 10.318504301 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/wasm-parser/download/@webassemblyjs/wasm-parser-1.9.0.tgz".
+verbose 10.37921978 Performing "GET" request to "https://registry.npm.taobao.org/acorn/download/acorn-6.4.2.tgz".
+verbose 10.396110087 Performing "GET" request to "https://registry.npm.taobao.org/chrome-trace-event/download/chrome-trace-event-1.0.2.tgz".
+verbose 10.535552573 Performing "GET" request to "https://registry.npm.taobao.org/enhanced-resolve/download/enhanced-resolve-4.3.0.tgz".
+verbose 10.639489029 Performing "GET" request to "https://registry.npm.taobao.org/eslint-scope/download/eslint-scope-4.0.3.tgz?cache=0&sync_timestamp=1599933677754&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint-scope%2Fdownload%2Feslint-scope-4.0.3.tgz".
+verbose 10.659367291 Performing "GET" request to "https://registry.npm.taobao.org/json-parse-better-errors/download/json-parse-better-errors-1.0.2.tgz".
+verbose 10.720113922 Performing "GET" request to "https://registry.npm.taobao.org/loader-runner/download/loader-runner-2.4.0.tgz?cache=0&sync_timestamp=1601450715716&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Floader-runner%2Fdownload%2Floader-runner-2.4.0.tgz".
+verbose 10.883090492 Performing "GET" request to "https://registry.npm.taobao.org/memory-fs/download/memory-fs-0.4.1.tgz".
+verbose 10.932411255 Performing "GET" request to "https://registry.npm.taobao.org/micromatch/download/micromatch-3.1.10.tgz".
+verbose 11.067451251 Performing "GET" request to "https://registry.npm.taobao.org/neo-async/download/neo-async-2.6.2.tgz?cache=0&sync_timestamp=1594317437265&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fneo-async%2Fdownload%2Fneo-async-2.6.2.tgz".
+verbose 11.074991316 Performing "GET" request to "https://registry.npm.taobao.org/node-libs-browser/download/node-libs-browser-2.2.1.tgz".
+verbose 11.142156692 Performing "GET" request to "https://registry.npm.taobao.org/schema-utils/download/schema-utils-1.0.0.tgz?cache=0&sync_timestamp=1601922251376&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fschema-utils%2Fdownload%2Fschema-utils-1.0.0.tgz".
+verbose 11.149392547 Performing "GET" request to "https://registry.npm.taobao.org/tapable/download/tapable-1.1.3.tgz?cache=0&sync_timestamp=1600381257656&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftapable%2Fdownload%2Ftapable-1.1.3.tgz".
+verbose 11.15122021 Performing "GET" request to "https://registry.npm.taobao.org/terser-webpack-plugin/download/terser-webpack-plugin-1.4.5.tgz".
+verbose 11.152560707 Performing "GET" request to "https://registry.npm.taobao.org/watchpack/download/watchpack-1.7.4.tgz?cache=0&sync_timestamp=1600385388649&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fwatchpack%2Fdownload%2Fwatchpack-1.7.4.tgz".
+verbose 11.156600082 Performing "GET" request to "https://registry.npm.taobao.org/webpack-sources/download/webpack-sources-1.4.3.tgz".
+verbose 11.29607557 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/helper-wasm-bytecode/download/@webassemblyjs/helper-wasm-bytecode-1.9.0.tgz?cache=0&sync_timestamp=1601755794664&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fhelper-wasm-bytecode%2Fdownload%2F%40webassemblyjs%2Fhelper-wasm-bytecode-1.9.0.tgz".
+verbose 11.41255678 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/wast-parser/download/@webassemblyjs/wast-parser-1.9.0.tgz".
+verbose 11.416144954 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/helper-buffer/download/@webassemblyjs/helper-buffer-1.9.0.tgz?cache=0&sync_timestamp=1601755792394&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fhelper-buffer%2Fdownload%2F%40webassemblyjs%2Fhelper-buffer-1.9.0.tgz".
+verbose 11.423915582 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/helper-wasm-section/download/@webassemblyjs/helper-wasm-section-1.9.0.tgz".
+verbose 11.582144101 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/wasm-gen/download/@webassemblyjs/wasm-gen-1.9.0.tgz".
+verbose 11.591967208 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/wasm-opt/download/@webassemblyjs/wasm-opt-1.9.0.tgz?cache=0&sync_timestamp=1601755799211&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fwasm-opt%2Fdownload%2F%40webassemblyjs%2Fwasm-opt-1.9.0.tgz".
+verbose 11.5965163 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/wast-printer/download/@webassemblyjs/wast-printer-1.9.0.tgz?cache=0&sync_timestamp=1601755800882&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fwast-printer%2Fdownload%2F%40webassemblyjs%2Fwast-printer-1.9.0.tgz".
+verbose 11.63952584 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/helper-api-error/download/@webassemblyjs/helper-api-error-1.9.0.tgz?cache=0&sync_timestamp=1601755796380&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fhelper-api-error%2Fdownload%2F%40webassemblyjs%2Fhelper-api-error-1.9.0.tgz".
+verbose 11.693555999 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/ieee754/download/@webassemblyjs/ieee754-1.9.0.tgz?cache=0&sync_timestamp=1601755796928&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fieee754%2Fdownload%2F%40webassemblyjs%2Fieee754-1.9.0.tgz".
+verbose 11.703207622 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/leb128/download/@webassemblyjs/leb128-1.9.0.tgz?cache=0&sync_timestamp=1601755795673&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fleb128%2Fdownload%2F%40webassemblyjs%2Fleb128-1.9.0.tgz".
+verbose 11.795254324 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/utf8/download/@webassemblyjs/utf8-1.9.0.tgz?cache=0&sync_timestamp=1601755798014&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Futf8%2Fdownload%2F%40webassemblyjs%2Futf8-1.9.0.tgz".
+verbose 11.815285186 Performing "GET" request to "https://registry.npm.taobao.org/tslib/download/tslib-1.14.0.tgz?cache=0&sync_timestamp=1601998793819&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftslib%2Fdownload%2Ftslib-1.14.0.tgz".
+verbose 11.816548457 Performing "GET" request to "https://registry.npm.taobao.org/graceful-fs/download/graceful-fs-4.2.4.tgz".
+verbose 11.842161025 Performing "GET" request to "https://registry.npm.taobao.org/memory-fs/download/memory-fs-0.5.0.tgz".
+verbose 11.897546533 Performing "GET" request to "https://registry.npm.taobao.org/esrecurse/download/esrecurse-4.3.0.tgz".
+verbose 11.900998284 Performing "GET" request to "https://registry.npm.taobao.org/estraverse/download/estraverse-4.3.0.tgz?cache=0&sync_timestamp=1596642941915&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Festraverse%2Fdownload%2Festraverse-4.3.0.tgz".
+verbose 11.944365499 Performing "GET" request to "https://registry.npm.taobao.org/errno/download/errno-0.1.7.tgz".
+verbose 11.978562064 Performing "GET" request to "https://registry.npm.taobao.org/readable-stream/download/readable-stream-2.3.7.tgz".
+verbose 12.023451576 Performing "GET" request to "https://registry.npm.taobao.org/arr-diff/download/arr-diff-4.0.0.tgz".
+verbose 12.037793778 Performing "GET" request to "https://registry.npm.taobao.org/array-unique/download/array-unique-0.3.2.tgz".
+verbose 12.045915875 Performing "GET" request to "https://registry.npm.taobao.org/braces/download/braces-2.3.2.tgz".
+verbose 12.094704031 Performing "GET" request to "https://registry.npm.taobao.org/define-property/download/define-property-2.0.2.tgz".
+verbose 12.101519727 Performing "GET" request to "https://registry.npm.taobao.org/extend-shallow/download/extend-shallow-3.0.2.tgz".
+verbose 12.175819959 Performing "GET" request to "https://registry.npm.taobao.org/extglob/download/extglob-2.0.4.tgz".
+verbose 12.20525685 Performing "GET" request to "https://registry.npm.taobao.org/fragment-cache/download/fragment-cache-0.2.1.tgz".
+verbose 12.230968189 Performing "GET" request to "https://registry.npm.taobao.org/kind-of/download/kind-of-6.0.3.tgz".
+verbose 12.30658553 Performing "GET" request to "https://registry.npm.taobao.org/nanomatch/download/nanomatch-1.2.13.tgz".
+verbose 12.326538273 Performing "GET" request to "https://registry.npm.taobao.org/object.pick/download/object.pick-1.3.0.tgz".
+verbose 12.327922581 Performing "GET" request to "https://registry.npm.taobao.org/regex-not/download/regex-not-1.0.2.tgz".
+verbose 12.3305626 Performing "GET" request to "https://registry.npm.taobao.org/snapdragon/download/snapdragon-0.8.2.tgz".
+verbose 12.423224175 Performing "GET" request to "https://registry.npm.taobao.org/to-regex/download/to-regex-3.0.2.tgz".
+verbose 12.48856907 Performing "GET" request to "https://registry.npm.taobao.org/assert/download/assert-1.5.0.tgz".
+verbose 12.548024776 Performing "GET" request to "https://registry.npm.taobao.org/browserify-zlib/download/browserify-zlib-0.2.0.tgz".
+verbose 12.562238323 Performing "GET" request to "https://registry.npm.taobao.org/buffer/download/buffer-4.9.2.tgz".
+verbose 12.581245059 Performing "GET" request to "https://registry.npm.taobao.org/console-browserify/download/console-browserify-1.2.0.tgz".
+verbose 12.630862651 Performing "GET" request to "https://registry.npm.taobao.org/constants-browserify/download/constants-browserify-1.0.0.tgz".
+verbose 12.648596755 Performing "GET" request to "https://registry.npm.taobao.org/crypto-browserify/download/crypto-browserify-3.12.0.tgz".
+verbose 12.658093293 Performing "GET" request to "https://registry.npm.taobao.org/domain-browser/download/domain-browser-1.2.0.tgz".
+verbose 12.709734775 Performing "GET" request to "https://registry.npm.taobao.org/events/download/events-3.2.0.tgz?cache=0&sync_timestamp=1595422602348&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fevents%2Fdownload%2Fevents-3.2.0.tgz".
+verbose 12.800350654 Performing "GET" request to "https://registry.npm.taobao.org/https-browserify/download/https-browserify-1.0.0.tgz".
+verbose 12.801232917 Performing "GET" request to "https://registry.npm.taobao.org/os-browserify/download/os-browserify-0.3.0.tgz".
+verbose 12.817014529 Performing "GET" request to "https://registry.npm.taobao.org/path-browserify/download/path-browserify-0.0.1.tgz".
+verbose 12.828079113 Performing "GET" request to "https://registry.npm.taobao.org/process/download/process-0.11.10.tgz".
+verbose 13.029467603 Performing "GET" request to "https://registry.npm.taobao.org/punycode/download/punycode-1.4.1.tgz".
+verbose 13.031969801 Performing "GET" request to "https://registry.npm.taobao.org/querystring-es3/download/querystring-es3-0.2.1.tgz".
+verbose 13.042241756 Performing "GET" request to "https://registry.npm.taobao.org/stream-browserify/download/stream-browserify-2.0.2.tgz".
+verbose 13.043367221 Performing "GET" request to "https://registry.npm.taobao.org/stream-http/download/stream-http-2.8.3.tgz".
+verbose 13.107669113 Performing "GET" request to "https://registry.npm.taobao.org/string_decoder/download/string_decoder-1.3.0.tgz".
+verbose 13.196738983 Performing "GET" request to "https://registry.npm.taobao.org/timers-browserify/download/timers-browserify-2.0.11.tgz".
+verbose 13.204842489 Performing "GET" request to "https://registry.npm.taobao.org/tty-browserify/download/tty-browserify-0.0.0.tgz".
+verbose 13.208906661 Performing "GET" request to "https://registry.npm.taobao.org/url/download/url-0.11.0.tgz".
+verbose 13.24843617 Performing "GET" request to "https://registry.npm.taobao.org/util/download/util-0.11.1.tgz?cache=0&sync_timestamp=1596697422093&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Futil%2Fdownload%2Futil-0.11.1.tgz".
+verbose 13.260353008 Performing "GET" request to "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.2.tgz".
+verbose 13.31906894 Performing "GET" request to "https://registry.npm.taobao.org/ajv-errors/download/ajv-errors-1.0.1.tgz".
+verbose 13.377337584 Performing "GET" request to "https://registry.npm.taobao.org/cacache/download/cacache-12.0.4.tgz?cache=0&sync_timestamp=1594428006433&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcacache%2Fdownload%2Fcacache-12.0.4.tgz".
+verbose 13.386630015 Performing "GET" request to "https://registry.npm.taobao.org/is-wsl/download/is-wsl-1.1.0.tgz".
+verbose 13.389212875 Performing "GET" request to "https://registry.npm.taobao.org/serialize-javascript/download/serialize-javascript-4.0.0.tgz?cache=0&sync_timestamp=1599740666792&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fserialize-javascript%2Fdownload%2Fserialize-javascript-4.0.0.tgz".
+verbose 13.391628328 Performing "GET" request to "https://registry.npm.taobao.org/source-map/download/source-map-0.6.1.tgz".
+verbose 13.51673198 Performing "GET" request to "https://registry.npm.taobao.org/terser/download/terser-4.8.0.tgz".
+verbose 13.522153284 Performing "GET" request to "https://registry.npm.taobao.org/worker-farm/download/worker-farm-1.7.0.tgz".
+verbose 13.619319108 Performing "GET" request to "https://registry.npm.taobao.org/chokidar/download/chokidar-3.4.2.tgz?cache=0&sync_timestamp=1597763177396&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fchokidar%2Fdownload%2Fchokidar-3.4.2.tgz".
+verbose 13.620477953 Performing "GET" request to "https://registry.npm.taobao.org/watchpack-chokidar2/download/watchpack-chokidar2-2.0.0.tgz".
+verbose 13.622887868 Performing "GET" request to "https://registry.npm.taobao.org/source-list-map/download/source-list-map-2.0.1.tgz".
+verbose 13.705848996 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/floating-point-hex-parser/download/@webassemblyjs/floating-point-hex-parser-1.9.0.tgz?cache=0&sync_timestamp=1601755793796&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Ffloating-point-hex-parser%2Fdownload%2F%40webassemblyjs%2Ffloating-point-hex-parser-1.9.0.tgz".
+verbose 13.813651198 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/helper-code-frame/download/@webassemblyjs/helper-code-frame-1.9.0.tgz?cache=0&sync_timestamp=1601755802533&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fhelper-code-frame%2Fdownload%2F%40webassemblyjs%2Fhelper-code-frame-1.9.0.tgz".
+verbose 13.849214081 Performing "GET" request to "https://registry.npm.taobao.org/@webassemblyjs/helper-fsm/download/@webassemblyjs/helper-fsm-1.9.0.tgz?cache=0&sync_timestamp=1601755793123&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40webassemblyjs%2Fhelper-fsm%2Fdownload%2F%40webassemblyjs%2Fhelper-fsm-1.9.0.tgz".
+verbose 13.965065253 Performing "GET" request to "https://registry.npm.taobao.org/@xtuc/long/download/@xtuc/long-4.2.2.tgz".
+verbose 14.039813188 Performing "GET" request to "https://registry.npm.taobao.org/@xtuc/ieee754/download/@xtuc/ieee754-1.2.0.tgz".
+verbose 14.12762917 Performing "GET" request to "https://registry.npm.taobao.org/estraverse/download/estraverse-5.2.0.tgz?cache=0&sync_timestamp=1596642941915&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Festraverse%2Fdownload%2Festraverse-5.2.0.tgz".
+verbose 14.199312734 Performing "GET" request to "https://registry.npm.taobao.org/prr/download/prr-1.0.1.tgz".
+verbose 14.201557577 Performing "GET" request to "https://registry.npm.taobao.org/core-util-is/download/core-util-is-1.0.2.tgz".
+verbose 14.217913564 Performing "GET" request to "https://registry.npm.taobao.org/inherits/download/inherits-2.0.4.tgz".
+verbose 14.275861286 Performing "GET" request to "https://registry.npm.taobao.org/isarray/download/isarray-1.0.0.tgz".
+verbose 14.300724517 Performing "GET" request to "https://registry.npm.taobao.org/process-nextick-args/download/process-nextick-args-2.0.1.tgz".
+verbose 14.377030826 Performing "GET" request to "https://registry.npm.taobao.org/string_decoder/download/string_decoder-1.1.1.tgz".
+verbose 14.500034218 Performing "GET" request to "https://registry.npm.taobao.org/util-deprecate/download/util-deprecate-1.0.2.tgz".
+verbose 14.507862351 Performing "GET" request to "https://registry.npm.taobao.org/arr-flatten/download/arr-flatten-1.1.0.tgz".
+verbose 14.578798965 Performing "GET" request to "https://registry.npm.taobao.org/extend-shallow/download/extend-shallow-2.0.1.tgz".
+verbose 14.648765516 Performing "GET" request to "https://registry.npm.taobao.org/fill-range/download/fill-range-4.0.0.tgz".
+verbose 14.652094472 Performing "GET" request to "https://registry.npm.taobao.org/isobject/download/isobject-3.0.1.tgz".
+verbose 14.655468563 Performing "GET" request to "https://registry.npm.taobao.org/repeat-element/download/repeat-element-1.1.3.tgz".
+verbose 14.711201978 Performing "GET" request to "https://registry.npm.taobao.org/snapdragon-node/download/snapdragon-node-2.1.1.tgz".
+verbose 14.728008313 Performing "GET" request to "https://registry.npm.taobao.org/split-string/download/split-string-3.1.0.tgz".
+verbose 14.786206167 Performing "GET" request to "https://registry.npm.taobao.org/is-descriptor/download/is-descriptor-1.0.2.tgz".
+verbose 14.851368845 Performing "GET" request to "https://registry.npm.taobao.org/assign-symbols/download/assign-symbols-1.0.0.tgz".
+verbose 14.856796555 Performing "GET" request to "https://registry.npm.taobao.org/is-extendable/download/is-extendable-1.0.1.tgz".
+verbose 14.875839326 Performing "GET" request to "https://registry.npm.taobao.org/define-property/download/define-property-1.0.0.tgz".
+verbose 14.915355192 Performing "GET" request to "https://registry.npm.taobao.org/expand-brackets/download/expand-brackets-2.1.4.tgz".
+verbose 14.937478658 Performing "GET" request to "https://registry.npm.taobao.org/map-cache/download/map-cache-0.2.2.tgz".
+verbose 14.986608194 Performing "GET" request to "https://registry.npm.taobao.org/is-windows/download/is-windows-1.0.2.tgz".
+verbose 14.990909072 Performing "GET" request to "https://registry.npm.taobao.org/safe-regex/download/safe-regex-1.1.0.tgz".
+verbose 14.993211639 Performing "GET" request to "https://registry.npm.taobao.org/base/download/base-0.11.2.tgz".
+verbose 15.041746871 Performing "GET" request to "https://registry.npm.taobao.org/debug/download/debug-2.6.9.tgz?cache=0&sync_timestamp=1600502873540&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdebug%2Fdownload%2Fdebug-2.6.9.tgz".
+verbose 15.04596218 Performing "GET" request to "https://registry.npm.taobao.org/define-property/download/define-property-0.2.5.tgz".
+verbose 15.053487373 Performing "GET" request to "https://registry.npm.taobao.org/source-map-resolve/download/source-map-resolve-0.5.3.tgz".
+verbose 15.070027488 Performing "GET" request to "https://registry.npm.taobao.org/use/download/use-3.1.1.tgz".
+verbose 15.099737398 Performing "GET" request to "https://registry.npm.taobao.org/util/download/util-0.10.3.tgz?cache=0&sync_timestamp=1596697422093&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Futil%2Fdownload%2Futil-0.10.3.tgz".
+verbose 15.11536123 Performing "GET" request to "https://registry.npm.taobao.org/pako/download/pako-1.0.11.tgz".
+verbose 15.161769321 Performing "GET" request to "https://registry.npm.taobao.org/base64-js/download/base64-js-1.3.1.tgz".
+verbose 15.164941927 Performing "GET" request to "https://registry.npm.taobao.org/ieee754/download/ieee754-1.1.13.tgz".
+verbose 15.172604169 Performing "GET" request to "https://registry.npm.taobao.org/browserify-cipher/download/browserify-cipher-1.0.1.tgz".
+verbose 15.193295748 Performing "GET" request to "https://registry.npm.taobao.org/browserify-sign/download/browserify-sign-4.2.1.tgz?cache=0&sync_timestamp=1596557809886&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbrowserify-sign%2Fdownload%2Fbrowserify-sign-4.2.1.tgz".
+verbose 15.197078119 Performing "GET" request to "https://registry.npm.taobao.org/create-ecdh/download/create-ecdh-4.0.4.tgz?cache=0&sync_timestamp=1596557441827&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcreate-ecdh%2Fdownload%2Fcreate-ecdh-4.0.4.tgz".
+verbose 15.211982119 Performing "GET" request to "https://registry.npm.taobao.org/create-hash/download/create-hash-1.2.0.tgz".
+verbose 15.28309955 Performing "GET" request to "https://registry.npm.taobao.org/create-hmac/download/create-hmac-1.1.7.tgz".
+verbose 15.28560807 Performing "GET" request to "https://registry.npm.taobao.org/diffie-hellman/download/diffie-hellman-5.0.3.tgz".
+verbose 15.287901037 Performing "GET" request to "https://registry.npm.taobao.org/pbkdf2/download/pbkdf2-3.1.1.tgz".
+verbose 15.304877334 Performing "GET" request to "https://registry.npm.taobao.org/public-encrypt/download/public-encrypt-4.0.3.tgz".
+verbose 15.310070474 Performing "GET" request to "https://registry.npm.taobao.org/randombytes/download/randombytes-2.1.0.tgz".
+verbose 15.316919786 Performing "GET" request to "https://registry.npm.taobao.org/randomfill/download/randomfill-1.0.4.tgz".
+verbose 15.322310025 Performing "GET" request to "https://registry.npm.taobao.org/builtin-status-codes/download/builtin-status-codes-3.0.0.tgz".
+verbose 15.397943515 Performing "GET" request to "https://registry.npm.taobao.org/to-arraybuffer/download/to-arraybuffer-1.0.1.tgz".
+verbose 15.402232092 Performing "GET" request to "https://registry.npm.taobao.org/xtend/download/xtend-4.0.2.tgz?cache=0&sync_timestamp=1596697437792&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fxtend%2Fdownload%2Fxtend-4.0.2.tgz".
+verbose 15.404555987 Performing "GET" request to "https://registry.npm.taobao.org/safe-buffer/download/safe-buffer-5.2.1.tgz".
+verbose 15.423210442 Performing "GET" request to "https://registry.npm.taobao.org/setimmediate/download/setimmediate-1.0.5.tgz".
+verbose 15.430195717 Performing "GET" request to "https://registry.npm.taobao.org/punycode/download/punycode-1.3.2.tgz".
+verbose 15.454254747 Performing "GET" request to "https://registry.npm.taobao.org/querystring/download/querystring-0.2.0.tgz".
+verbose 15.48143519 Performing "GET" request to "https://registry.npm.taobao.org/inherits/download/inherits-2.0.3.tgz".
+verbose 15.526826346 Performing "GET" request to "https://registry.npm.taobao.org/bluebird/download/bluebird-3.7.2.tgz".
+verbose 15.530463854 Performing "GET" request to "https://registry.npm.taobao.org/chownr/download/chownr-1.1.4.tgz".
+verbose 15.537272092 Performing "GET" request to "https://registry.npm.taobao.org/figgy-pudding/download/figgy-pudding-3.5.2.tgz".
+verbose 15.539265735 Performing "GET" request to "https://registry.npm.taobao.org/glob/download/glob-7.1.6.tgz".
+verbose 15.562985468 Performing "GET" request to "https://registry.npm.taobao.org/infer-owner/download/infer-owner-1.0.4.tgz".
+verbose 15.577853446 Performing "GET" request to "https://registry.npm.taobao.org/lru-cache/download/lru-cache-5.1.1.tgz?cache=0&sync_timestamp=1594427519396&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flru-cache%2Fdownload%2Flru-cache-5.1.1.tgz".
+verbose 15.59261764 Performing "GET" request to "https://registry.npm.taobao.org/mississippi/download/mississippi-3.0.0.tgz".
+verbose 15.657086642 Performing "GET" request to "https://registry.npm.taobao.org/move-concurrently/download/move-concurrently-1.0.1.tgz".
+verbose 15.663231511 Performing "GET" request to "https://registry.npm.taobao.org/promise-inflight/download/promise-inflight-1.0.1.tgz".
+verbose 15.704747922 Performing "GET" request to "https://registry.npm.taobao.org/rimraf/download/rimraf-2.7.1.tgz".
+verbose 15.71542593 Performing "GET" request to "https://registry.npm.taobao.org/ssri/download/ssri-6.0.1.tgz".
+verbose 15.771414554 Performing "GET" request to "https://registry.npm.taobao.org/unique-filename/download/unique-filename-1.1.1.tgz".
+verbose 15.780050468 Performing "GET" request to "https://registry.npm.taobao.org/y18n/download/y18n-4.0.0.tgz?cache=0&sync_timestamp=1601576779692&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fy18n%2Fdownload%2Fy18n-4.0.0.tgz".
+verbose 15.788227797 Performing "GET" request to "https://registry.npm.taobao.org/commander/download/commander-2.20.3.tgz?cache=0&sync_timestamp=1598576136669&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcommander%2Fdownload%2Fcommander-2.20.3.tgz".
+verbose 15.818798682 Performing "GET" request to "https://registry.npm.taobao.org/source-map-support/download/source-map-support-0.5.19.tgz".
+verbose 15.820557882 Performing "GET" request to "https://registry.npm.taobao.org/anymatch/download/anymatch-3.1.1.tgz".
+verbose 15.88612855 Performing "GET" request to "https://registry.npm.taobao.org/braces/download/braces-3.0.2.tgz".
+verbose 15.912438299 Performing "GET" request to "https://registry.npm.taobao.org/glob-parent/download/glob-parent-5.1.1.tgz".
+verbose 15.9137192 Performing "GET" request to "https://registry.npm.taobao.org/is-binary-path/download/is-binary-path-2.1.0.tgz".
+verbose 15.948076685 Performing "GET" request to "https://registry.npm.taobao.org/is-glob/download/is-glob-4.0.1.tgz".
+verbose 15.952263233 Performing "GET" request to "https://registry.npm.taobao.org/normalize-path/download/normalize-path-3.0.0.tgz".
+verbose 16.015772971 Performing "GET" request to "https://registry.npm.taobao.org/readdirp/download/readdirp-3.4.0.tgz".
+verbose 16.024336104 Performing "GET" request to "https://registry.npm.taobao.org/fsevents/download/fsevents-2.1.3.tgz".
+verbose 16.073638943 Performing "GET" request to "https://registry.npm.taobao.org/chokidar/download/chokidar-2.1.8.tgz?cache=0&sync_timestamp=1597763177396&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fchokidar%2Fdownload%2Fchokidar-2.1.8.tgz".
+verbose 16.094085918 Performing "GET" request to "https://registry.npm.taobao.org/is-extendable/download/is-extendable-0.1.1.tgz".
+verbose 16.113010701 Performing "GET" request to "https://registry.npm.taobao.org/is-number/download/is-number-3.0.0.tgz".
+verbose 16.114651591 Performing "GET" request to "https://registry.npm.taobao.org/repeat-string/download/repeat-string-1.6.1.tgz".
+verbose 16.133169574 Performing "GET" request to "https://registry.npm.taobao.org/to-regex-range/download/to-regex-range-2.1.1.tgz".
+verbose 16.153861739 Performing "GET" request to "https://registry.npm.taobao.org/snapdragon-util/download/snapdragon-util-3.0.1.tgz".
+verbose 16.171561337 Performing "GET" request to "https://registry.npm.taobao.org/is-accessor-descriptor/download/is-accessor-descriptor-1.0.0.tgz".
+verbose 16.261179998 Performing "GET" request to "https://registry.npm.taobao.org/is-data-descriptor/download/is-data-descriptor-1.0.0.tgz".
+verbose 16.262893808 Performing "GET" request to "https://registry.npm.taobao.org/is-plain-object/download/is-plain-object-2.0.4.tgz?cache=0&sync_timestamp=1599667279942&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fis-plain-object%2Fdownload%2Fis-plain-object-2.0.4.tgz".
+verbose 16.263640604 Performing "GET" request to "https://registry.npm.taobao.org/posix-character-classes/download/posix-character-classes-0.1.1.tgz".
+verbose 16.268726317 Performing "GET" request to "https://registry.npm.taobao.org/ret/download/ret-0.1.15.tgz".
+verbose 16.294871271 Performing "GET" request to "https://registry.npm.taobao.org/cache-base/download/cache-base-1.0.1.tgz".
+verbose 16.315899337 Performing "GET" request to "https://registry.npm.taobao.org/class-utils/download/class-utils-0.3.6.tgz".
+verbose 16.356646028 Performing "GET" request to "https://registry.npm.taobao.org/component-emitter/download/component-emitter-1.3.0.tgz".
+verbose 16.400522342 Performing "GET" request to "https://registry.npm.taobao.org/mixin-deep/download/mixin-deep-1.3.2.tgz".
+verbose 16.410350841 Performing "GET" request to "https://registry.npm.taobao.org/pascalcase/download/pascalcase-0.1.1.tgz".
+verbose 16.418535582 Performing "GET" request to "https://registry.npm.taobao.org/ms/download/ms-2.0.0.tgz".
+verbose 16.424281693 Performing "GET" request to "https://registry.npm.taobao.org/is-descriptor/download/is-descriptor-0.1.6.tgz".
+verbose 16.443584576 Performing "GET" request to "https://registry.npm.taobao.org/atob/download/atob-2.1.2.tgz".
+verbose 16.471032376 Performing "GET" request to "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz".
+verbose 16.473274958 Performing "GET" request to "https://registry.npm.taobao.org/resolve-url/download/resolve-url-0.2.1.tgz".
+verbose 16.512912538 Performing "GET" request to "https://registry.npm.taobao.org/source-map-url/download/source-map-url-0.4.0.tgz".
+verbose 16.520228584 Performing "GET" request to "https://registry.npm.taobao.org/urix/download/urix-0.1.0.tgz".
+verbose 16.53395846 Performing "GET" request to "https://registry.npm.taobao.org/inherits/download/inherits-2.0.1.tgz".
+verbose 16.54112671 Performing "GET" request to "https://registry.npm.taobao.org/browserify-aes/download/browserify-aes-1.2.0.tgz".
+verbose 16.553686838 Performing "GET" request to "https://registry.npm.taobao.org/browserify-des/download/browserify-des-1.0.2.tgz".
+verbose 16.58388262 Performing "GET" request to "https://registry.npm.taobao.org/evp_bytestokey/download/evp_bytestokey-1.0.3.tgz".
+verbose 16.587734126 Performing "GET" request to "https://registry.npm.taobao.org/bn.js/download/bn.js-5.1.3.tgz".
+verbose 16.62628261 Performing "GET" request to "https://registry.npm.taobao.org/browserify-rsa/download/browserify-rsa-4.0.1.tgz".
+verbose 16.639764792 Performing "GET" request to "https://registry.npm.taobao.org/elliptic/download/elliptic-6.5.3.tgz?cache=0&sync_timestamp=1592492844326&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Felliptic%2Fdownload%2Felliptic-6.5.3.tgz".
+verbose 16.650699235 Performing "GET" request to "https://registry.npm.taobao.org/parse-asn1/download/parse-asn1-5.1.6.tgz".
+verbose 16.673621826 Performing "GET" request to "https://registry.npm.taobao.org/readable-stream/download/readable-stream-3.6.0.tgz".
+verbose 16.679750159 Performing "GET" request to "https://registry.npm.taobao.org/bn.js/download/bn.js-4.11.9.tgz".
+verbose 16.705461535 Performing "GET" request to "https://registry.npm.taobao.org/cipher-base/download/cipher-base-1.0.4.tgz".
+verbose 16.708140893 Performing "GET" request to "https://registry.npm.taobao.org/md5.js/download/md5.js-1.3.5.tgz".
+verbose 16.754938116 Performing "GET" request to "https://registry.npm.taobao.org/ripemd160/download/ripemd160-2.0.2.tgz".
+verbose 16.76378335 Performing "GET" request to "https://registry.npm.taobao.org/sha.js/download/sha.js-2.4.11.tgz".
+verbose 16.817558151 Performing "GET" request to "https://registry.npm.taobao.org/miller-rabin/download/miller-rabin-4.0.1.tgz".
+verbose 16.818914334 Performing "GET" request to "https://registry.npm.taobao.org/fs.realpath/download/fs.realpath-1.0.0.tgz".
+verbose 16.835461475 Performing "GET" request to "https://registry.npm.taobao.org/inflight/download/inflight-1.0.6.tgz".
+verbose 16.847871174 Performing "GET" request to "https://registry.npm.taobao.org/minimatch/download/minimatch-3.0.4.tgz".
+warning sha.js@2.4.11: Invalid bin entry for "sha.js" (in "sha.js").
+verbose 16.881572979 Performing "GET" request to "https://registry.npm.taobao.org/once/download/once-1.4.0.tgz".
+verbose 16.887593924 Performing "GET" request to "https://registry.npm.taobao.org/path-is-absolute/download/path-is-absolute-1.0.1.tgz".
+verbose 16.920830681 Performing "GET" request to "https://registry.npm.taobao.org/yallist/download/yallist-3.1.1.tgz".
+verbose 16.933354043 Performing "GET" request to "https://registry.npm.taobao.org/concat-stream/download/concat-stream-1.6.2.tgz".
+verbose 16.935593036 Performing "GET" request to "https://registry.npm.taobao.org/duplexify/download/duplexify-3.7.1.tgz".
+verbose 16.94020437 Performing "GET" request to "https://registry.npm.taobao.org/end-of-stream/download/end-of-stream-1.4.4.tgz".
+verbose 16.962593328 Performing "GET" request to "https://registry.npm.taobao.org/flush-write-stream/download/flush-write-stream-1.1.1.tgz".
+verbose 17.015806319 Performing "GET" request to "https://registry.npm.taobao.org/from2/download/from2-2.3.0.tgz".
+verbose 17.048313988 Performing "GET" request to "https://registry.npm.taobao.org/parallel-transform/download/parallel-transform-1.2.0.tgz".
+verbose 17.052765246 Performing "GET" request to "https://registry.npm.taobao.org/pump/download/pump-3.0.0.tgz".
+verbose 17.055170425 Performing "GET" request to "https://registry.npm.taobao.org/pumpify/download/pumpify-1.5.1.tgz".
+verbose 17.057458889 Performing "GET" request to "https://registry.npm.taobao.org/stream-each/download/stream-each-1.2.3.tgz".
+verbose 17.063501936 Performing "GET" request to "https://registry.npm.taobao.org/through2/download/through2-2.0.5.tgz?cache=0&sync_timestamp=1593478647766&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fthrough2%2Fdownload%2Fthrough2-2.0.5.tgz".
+verbose 17.081357061 Performing "GET" request to "https://registry.npm.taobao.org/aproba/download/aproba-1.2.0.tgz".
+verbose 17.086084111 Performing "GET" request to "https://registry.npm.taobao.org/copy-concurrently/download/copy-concurrently-1.0.5.tgz".
+verbose 17.137164969 Performing "GET" request to "https://registry.npm.taobao.org/fs-write-stream-atomic/download/fs-write-stream-atomic-1.0.10.tgz".
+verbose 17.169634377 Performing "GET" request to "https://registry.npm.taobao.org/run-queue/download/run-queue-1.0.3.tgz".
+verbose 17.175316724 Performing "GET" request to "https://registry.npm.taobao.org/unique-slug/download/unique-slug-2.0.2.tgz".
+verbose 17.177338789 Performing "GET" request to "https://registry.npm.taobao.org/buffer-from/download/buffer-from-1.1.1.tgz".
+verbose 17.179710236 Performing "GET" request to "https://registry.npm.taobao.org/picomatch/download/picomatch-2.2.2.tgz".
+verbose 17.188038865 Performing "GET" request to "https://registry.npm.taobao.org/fill-range/download/fill-range-7.0.1.tgz".
+verbose 17.219953541 Performing "GET" request to "https://registry.npm.taobao.org/binary-extensions/download/binary-extensions-2.1.0.tgz?cache=0&sync_timestamp=1593261283449&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbinary-extensions%2Fdownload%2Fbinary-extensions-2.1.0.tgz".
+verbose 17.228654419 Performing "GET" request to "https://registry.npm.taobao.org/is-extglob/download/is-extglob-2.1.1.tgz".
+verbose 17.295856612 Performing "GET" request to "https://registry.npm.taobao.org/anymatch/download/anymatch-2.0.0.tgz".
+verbose 17.298196561 Performing "GET" request to "https://registry.npm.taobao.org/async-each/download/async-each-1.0.3.tgz".
+verbose 17.309161464 Performing "GET" request to "https://registry.npm.taobao.org/glob-parent/download/glob-parent-3.1.0.tgz".
+verbose 17.315450188 Performing "GET" request to "https://registry.npm.taobao.org/is-binary-path/download/is-binary-path-1.0.1.tgz".
+verbose 17.326567665 Performing "GET" request to "https://registry.npm.taobao.org/readdirp/download/readdirp-2.2.1.tgz".
+verbose 17.391193808 Performing "GET" request to "https://registry.npm.taobao.org/upath/download/upath-1.2.0.tgz".
+verbose 17.409512666 Performing "GET" request to "https://registry.npm.taobao.org/fsevents/download/fsevents-1.2.13.tgz".
+verbose 17.411493338 Performing "GET" request to "https://registry.npm.taobao.org/kind-of/download/kind-of-3.2.2.tgz".
+verbose 17.41944218 Performing "GET" request to "https://registry.npm.taobao.org/collection-visit/download/collection-visit-1.0.0.tgz".
+verbose 17.432508704 Performing "GET" request to "https://registry.npm.taobao.org/get-value/download/get-value-2.0.6.tgz".
+verbose 17.441869091 Performing "GET" request to "https://registry.npm.taobao.org/has-value/download/has-value-1.0.0.tgz".
+verbose 17.445941762 Performing "GET" request to "https://registry.npm.taobao.org/set-value/download/set-value-2.0.1.tgz".
+verbose 17.473540604 Performing "GET" request to "https://registry.npm.taobao.org/to-object-path/download/to-object-path-0.3.0.tgz".
+verbose 17.52544257 Performing "GET" request to "https://registry.npm.taobao.org/union-value/download/union-value-1.0.1.tgz".
+verbose 17.529553346 Performing "GET" request to "https://registry.npm.taobao.org/unset-value/download/unset-value-1.0.0.tgz".
+verbose 17.545282436 Performing "GET" request to "https://registry.npm.taobao.org/arr-union/download/arr-union-3.1.0.tgz".
+verbose 17.54800235 Performing "GET" request to "https://registry.npm.taobao.org/static-extend/download/static-extend-0.1.2.tgz".
+verbose 17.551096595 Performing "GET" request to "https://registry.npm.taobao.org/for-in/download/for-in-1.0.2.tgz".
+verbose 17.555516423 Performing "GET" request to "https://registry.npm.taobao.org/is-accessor-descriptor/download/is-accessor-descriptor-0.1.6.tgz".
+verbose 17.575264593 Performing "GET" request to "https://registry.npm.taobao.org/is-data-descriptor/download/is-data-descriptor-0.1.4.tgz".
+verbose 17.635260281 Performing "GET" request to "https://registry.npm.taobao.org/kind-of/download/kind-of-5.1.0.tgz".
+verbose 17.647206071 Performing "GET" request to "https://registry.npm.taobao.org/buffer-xor/download/buffer-xor-1.0.3.tgz".
+verbose 17.661181473 Performing "GET" request to "https://registry.npm.taobao.org/des.js/download/des.js-1.0.1.tgz".
+verbose 17.664204831 Performing "GET" request to "https://registry.npm.taobao.org/brorand/download/brorand-1.1.0.tgz".
+verbose 17.680074571 Performing "GET" request to "https://registry.npm.taobao.org/hash.js/download/hash.js-1.1.7.tgz".
+verbose 17.705382821 Performing "GET" request to "https://registry.npm.taobao.org/hmac-drbg/download/hmac-drbg-1.0.1.tgz".
+verbose 17.781847738 Performing "GET" request to "https://registry.npm.taobao.org/minimalistic-assert/download/minimalistic-assert-1.0.1.tgz".
+verbose 17.793959523 Performing "GET" request to "https://registry.npm.taobao.org/minimalistic-crypto-utils/download/minimalistic-crypto-utils-1.0.1.tgz".
+verbose 17.796979688 Performing "GET" request to "https://registry.npm.taobao.org/asn1.js/download/asn1.js-5.4.1.tgz".
+verbose 17.805040586 Performing "GET" request to "https://registry.npm.taobao.org/hash-base/download/hash-base-3.1.0.tgz".
+verbose 17.829210488 Performing "GET" request to "https://registry.npm.taobao.org/wrappy/download/wrappy-1.0.2.tgz".
+verbose 17.846130799 Performing "GET" request to "https://registry.npm.taobao.org/brace-expansion/download/brace-expansion-1.1.11.tgz?cache=0&sync_timestamp=1601898201980&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbrace-expansion%2Fdownload%2Fbrace-expansion-1.1.11.tgz".
+verbose 17.868836894 Performing "GET" request to "https://registry.npm.taobao.org/typedarray/download/typedarray-0.0.6.tgz?cache=0&sync_timestamp=1596697411295&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftypedarray%2Fdownload%2Ftypedarray-0.0.6.tgz".
+verbose 17.909871609 Performing "GET" request to "https://registry.npm.taobao.org/stream-shift/download/stream-shift-1.0.1.tgz".
+verbose 17.940153527 Performing "GET" request to "https://registry.npm.taobao.org/cyclist/download/cyclist-1.0.1.tgz".
+verbose 17.942362538 Performing "GET" request to "https://registry.npm.taobao.org/pump/download/pump-2.0.1.tgz".
+verbose 17.945038103 Performing "GET" request to "https://registry.npm.taobao.org/iferr/download/iferr-0.1.5.tgz".
+verbose 17.962551748 Performing "GET" request to "https://registry.npm.taobao.org/imurmurhash/download/imurmurhash-0.1.4.tgz".
+verbose 17.96830808 Performing "GET" request to "https://registry.npm.taobao.org/to-regex-range/download/to-regex-range-5.0.1.tgz".
+verbose 17.992150771 Performing "GET" request to "https://registry.npm.taobao.org/normalize-path/download/normalize-path-2.1.1.tgz".
+verbose 18.017777599 Performing "GET" request to "https://registry.npm.taobao.org/is-glob/download/is-glob-3.1.0.tgz".
+verbose 18.057558835 Performing "GET" request to "https://registry.npm.taobao.org/path-dirname/download/path-dirname-1.0.2.tgz".
+verbose 18.069902256 Performing "GET" request to "https://registry.npm.taobao.org/binary-extensions/download/binary-extensions-1.13.1.tgz?cache=0&sync_timestamp=1593261283449&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbinary-extensions%2Fdownload%2Fbinary-extensions-1.13.1.tgz".
+verbose 18.072420956 Performing "GET" request to "https://registry.npm.taobao.org/bindings/download/bindings-1.5.0.tgz".
+verbose 18.075938563 Performing "GET" request to "https://registry.npm.taobao.org/nan/download/nan-2.14.1.tgz".
+verbose 18.122313577 Performing "GET" request to "https://registry.npm.taobao.org/is-buffer/download/is-buffer-1.1.6.tgz".
+verbose 18.124526308 Performing "GET" request to "https://registry.npm.taobao.org/map-visit/download/map-visit-1.0.0.tgz".
+verbose 18.152545858 Performing "GET" request to "https://registry.npm.taobao.org/object-visit/download/object-visit-1.0.1.tgz".
+verbose 18.218149546 Performing "GET" request to "https://registry.npm.taobao.org/has-values/download/has-values-1.0.0.tgz".
+verbose 18.219613415 Performing "GET" request to "https://registry.npm.taobao.org/has-value/download/has-value-0.3.1.tgz".
+verbose 18.252377523 Performing "GET" request to "https://registry.npm.taobao.org/object-copy/download/object-copy-0.1.0.tgz".
+verbose 18.300482669 Performing "GET" request to "https://registry.npm.taobao.org/safer-buffer/download/safer-buffer-2.1.2.tgz".
+verbose 18.301470675 Performing "GET" request to "https://registry.npm.taobao.org/balanced-match/download/balanced-match-1.0.0.tgz".
+verbose 18.303781985 Performing "GET" request to "https://registry.npm.taobao.org/concat-map/download/concat-map-0.0.1.tgz".
+verbose 18.306887777 Performing "GET" request to "https://registry.npm.taobao.org/is-number/download/is-number-7.0.0.tgz".
+verbose 18.349378249 Performing "GET" request to "https://registry.npm.taobao.org/remove-trailing-separator/download/remove-trailing-separator-1.1.0.tgz".
+verbose 18.366071242 Performing "GET" request to "https://registry.npm.taobao.org/file-uri-to-path/download/file-uri-to-path-1.0.0.tgz".
+verbose 18.401570183 Performing "GET" request to "https://registry.npm.taobao.org/kind-of/download/kind-of-4.0.0.tgz".
+verbose 18.428907035 Performing "GET" request to "https://registry.npm.taobao.org/has-values/download/has-values-0.1.4.tgz".
+verbose 18.431225725 Performing "GET" request to "https://registry.npm.taobao.org/isobject/download/isobject-2.1.0.tgz".
+verbose 18.477173333 Performing "GET" request to "https://registry.npm.taobao.org/copy-descriptor/download/copy-descriptor-0.1.1.tgz".
+verbose 18.479919867 Performing "GET" request to "https://registry.npm.taobao.org/webpack-cli/download/webpack-cli-3.3.12.tgz?cache=0&sync_timestamp=1602006319181&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fwebpack-cli%2Fdownload%2Fwebpack-cli-3.3.12.tgz".
+verbose 18.485181834 Performing "GET" request to "https://registry.npm.taobao.org/cross-spawn/download/cross-spawn-6.0.5.tgz".
+verbose 18.519956886 Performing "GET" request to "https://registry.npm.taobao.org/findup-sync/download/findup-sync-3.0.0.tgz".
+verbose 18.520852321 Performing "GET" request to "https://registry.npm.taobao.org/global-modules/download/global-modules-2.0.0.tgz".
+verbose 18.547523181 Performing "GET" request to "https://registry.npm.taobao.org/import-local/download/import-local-2.0.0.tgz".
+verbose 18.551014605 Performing "GET" request to "https://registry.npm.taobao.org/interpret/download/interpret-1.4.0.tgz".
+verbose 18.556625617 Performing "GET" request to "https://registry.npm.taobao.org/supports-color/download/supports-color-6.1.0.tgz?cache=0&sync_timestamp=1598611719015&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsupports-color%2Fdownload%2Fsupports-color-6.1.0.tgz".
+verbose 18.58981954 Performing "GET" request to "https://registry.npm.taobao.org/v8-compile-cache/download/v8-compile-cache-2.1.1.tgz?cache=0&sync_timestamp=1590871780233&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fv8-compile-cache%2Fdownload%2Fv8-compile-cache-2.1.1.tgz".
+verbose 18.608511144 Performing "GET" request to "https://registry.npm.taobao.org/yargs/download/yargs-13.3.2.tgz?cache=0&sync_timestamp=1600660100032&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fyargs%2Fdownload%2Fyargs-13.3.2.tgz".
+verbose 18.614972073 Performing "GET" request to "https://registry.npm.taobao.org/nice-try/download/nice-try-1.0.5.tgz".
+verbose 18.635825463 Performing "GET" request to "https://registry.npm.taobao.org/path-key/download/path-key-2.0.1.tgz".
+verbose 18.636966613 Performing "GET" request to "https://registry.npm.taobao.org/shebang-command/download/shebang-command-1.2.0.tgz".
+verbose 18.668381399 Performing "GET" request to "https://registry.npm.taobao.org/which/download/which-1.3.1.tgz".
+verbose 18.67487383 Performing "GET" request to "https://registry.npm.taobao.org/detect-file/download/detect-file-1.0.0.tgz".
+verbose 18.67630387 Performing "GET" request to "https://registry.npm.taobao.org/resolve-dir/download/resolve-dir-1.0.1.tgz".
+verbose 18.709770339 Performing "GET" request to "https://registry.npm.taobao.org/global-prefix/download/global-prefix-3.0.0.tgz".
+verbose 18.735413985 Performing "GET" request to "https://registry.npm.taobao.org/resolve-cwd/download/resolve-cwd-2.0.0.tgz".
+verbose 18.74814536 Performing "GET" request to "https://registry.npm.taobao.org/cliui/download/cliui-5.0.0.tgz?cache=0&sync_timestamp=1597606145227&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcliui%2Fdownload%2Fcliui-5.0.0.tgz".
+verbose 18.753260469 Performing "GET" request to "https://registry.npm.taobao.org/get-caller-file/download/get-caller-file-2.0.5.tgz".
+verbose 18.760067333 Performing "GET" request to "https://registry.npm.taobao.org/require-directory/download/require-directory-2.1.1.tgz".
+verbose 18.793464975 Performing "GET" request to "https://registry.npm.taobao.org/require-main-filename/download/require-main-filename-2.0.0.tgz".
+verbose 18.804824262 Performing "GET" request to "https://registry.npm.taobao.org/set-blocking/download/set-blocking-2.0.0.tgz".
+verbose 18.807401823 Performing "GET" request to "https://registry.npm.taobao.org/string-width/download/string-width-3.1.0.tgz".
+verbose 18.814686609 Performing "GET" request to "https://registry.npm.taobao.org/which-module/download/which-module-2.0.0.tgz".
+verbose 18.864188817 Performing "GET" request to "https://registry.npm.taobao.org/yargs-parser/download/yargs-parser-13.1.2.tgz?cache=0&sync_timestamp=1601576779920&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fyargs-parser%2Fdownload%2Fyargs-parser-13.1.2.tgz".
+verbose 18.865238355 Performing "GET" request to "https://registry.npm.taobao.org/shebang-regex/download/shebang-regex-1.0.0.tgz?cache=0&sync_timestamp=1596697357985&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fshebang-regex%2Fdownload%2Fshebang-regex-1.0.0.tgz".
+verbose 18.871630602 Performing "GET" request to "https://registry.npm.taobao.org/isexe/download/isexe-2.0.0.tgz".
+verbose 18.887746844 Performing "GET" request to "https://registry.npm.taobao.org/expand-tilde/download/expand-tilde-2.0.2.tgz".
+verbose 18.903176964 Performing "GET" request to "https://registry.npm.taobao.org/global-modules/download/global-modules-1.0.0.tgz".
+verbose 18.915075997 Performing "GET" request to "https://registry.npm.taobao.org/ini/download/ini-1.3.5.tgz".
+verbose 18.932140171 Performing "GET" request to "https://registry.npm.taobao.org/resolve-from/download/resolve-from-3.0.0.tgz".
+verbose 18.976077041 Performing "GET" request to "https://registry.npm.taobao.org/strip-ansi/download/strip-ansi-5.2.0.tgz?cache=0&sync_timestamp=1596697387823&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fstrip-ansi%2Fdownload%2Fstrip-ansi-5.2.0.tgz".
+verbose 18.979910281 Performing "GET" request to "https://registry.npm.taobao.org/wrap-ansi/download/wrap-ansi-5.1.0.tgz".
+verbose 18.985907819 Performing "GET" request to "https://registry.npm.taobao.org/emoji-regex/download/emoji-regex-7.0.3.tgz".
+verbose 18.996115798 Performing "GET" request to "https://registry.npm.taobao.org/is-fullwidth-code-point/download/is-fullwidth-code-point-2.0.0.tgz".
+verbose 19.002540669 Performing "GET" request to "https://registry.npm.taobao.org/camelcase/download/camelcase-5.3.1.tgz".
+verbose 19.00832542 Performing "GET" request to "https://registry.npm.taobao.org/decamelize/download/decamelize-1.2.0.tgz".
+verbose 19.036709448 Performing "GET" request to "https://registry.npm.taobao.org/homedir-polyfill/download/homedir-polyfill-1.0.3.tgz".
+verbose 19.100988987 Performing "GET" request to "https://registry.npm.taobao.org/global-prefix/download/global-prefix-1.0.2.tgz".
+verbose 19.104808408 Performing "GET" request to "https://registry.npm.taobao.org/ansi-regex/download/ansi-regex-4.1.0.tgz".
+verbose 19.107865281 Performing "GET" request to "https://registry.npm.taobao.org/parse-passwd/download/parse-passwd-1.0.0.tgz".
+[3/5] Linking dependencies...
+verbose 19.272061304 Selecting "react@16.13.1" at level 0 as the peer dependency of "antd@4.6.6".
+verbose 19.272170236 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "antd@4.6.6".
+verbose 19.272420882 Selecting "react@16.13.1" at level 0 as the peer dependency of "@ant-design/icons@4.2.2".
+verbose 19.272573288 Selecting "react@16.13.1" at level 0 as the peer dependency of "@ant-design/react-slick@0.27.10".
+verbose 19.272687883 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "@ant-design/react-slick@0.27.10".
+verbose 19.272784785 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-dialog@8.2.2".
+verbose 19.272853789 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-dialog@8.2.2".
+verbose 19.272900687 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-drawer@4.1.0".
+verbose 19.272941164 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-dropdown@3.2.0".
+verbose 19.272972626 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-dropdown@3.2.0".
+verbose 19.273005794 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-field-form@1.10.1".
+verbose 19.273072252 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-image@3.0.6".
+verbose 19.273141889 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-image@3.0.6".
+verbose 19.273196277 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-mentions@1.5.2".
+verbose 19.273275625 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-motion@2.3.1".
+verbose 19.273349332 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-motion@2.3.1".
+verbose 19.273390961 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-notification@4.4.0".
+verbose 19.27342684 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-notification@4.4.0".
+verbose 19.273500703 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-pagination@3.0.4".
+verbose 19.273578595 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-pagination@3.0.4".
+verbose 19.273654697 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-progress@3.1.0".
+verbose 19.273727121 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-progress@3.1.0".
+verbose 19.273804131 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-resize-observer@0.2.5".
+verbose 19.273877043 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-resize-observer@0.2.5".
+verbose 19.273918872 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-select@11.3.3".
+verbose 19.273956237 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-select@11.3.3".
+verbose 19.274030834 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-slider@9.5.2".
+verbose 19.274103622 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-slider@9.5.2".
+verbose 19.274178346 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-steps@4.1.2".
+verbose 19.274251143 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-steps@4.1.2".
+verbose 19.274327285 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-switch@3.2.1".
+verbose 19.274401225 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-switch@3.2.1".
+verbose 19.274476553 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-table@7.9.10".
+verbose 19.274548786 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-table@7.9.10".
+verbose 19.274626595 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-textarea@0.3.0".
+verbose 19.274704439 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-textarea@0.3.0".
+verbose 19.274749683 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-tree@3.10.0".
+verbose 19.274785869 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-tree@3.10.0".
+verbose 19.274822734 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-tree-select@4.1.2".
+verbose 19.274856689 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-tree-select@4.1.2".
+verbose 19.274929154 Selecting "react@16.13.1" at level 0 as the peer dependency of "mini-store@3.0.6".
+verbose 19.27499114 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "mini-store@3.0.6".
+verbose 19.27503685 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-virtual-list@3.1.0".
+verbose 19.275073373 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-virtual-list@3.1.0".
+verbose 19.275110445 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-select@11.4.1".
+verbose 19.275143654 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-select@11.4.1".
+verbose 19.275179629 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-align@4.0.8".
+verbose 19.275212909 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-align@4.0.8".
+verbose 19.27531138 Selecting "react@16.13.1" at level 0 as the peer dependency of "react-dom@16.13.1".
+verbose 19.275425832 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/preset-env@7.11.5".
+verbose 19.27550558 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/helper-compilation-targets@7.10.4".
+verbose 19.275588529 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-async-generator-functions@7.10.5".
+verbose 19.275668157 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-class-properties@7.10.4".
+verbose 19.275745111 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-dynamic-import@7.10.4".
+verbose 19.275821203 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-export-namespace-from@7.10.4".
+verbose 19.275897798 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-json-strings@7.10.4".
+verbose 19.275973784 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-logical-assignment-operators@7.11.0".
+verbose 19.276049175 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-nullish-coalescing-operator@7.10.4".
+verbose 19.276124572 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-numeric-separator@7.10.4".
+verbose 19.276200176 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-object-rest-spread@7.11.0".
+verbose 19.276275142 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-optional-catch-binding@7.10.4".
+verbose 19.276351694 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-optional-chaining@7.11.0".
+verbose 19.27642591 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-private-methods@7.10.4".
+verbose 19.276503352 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-unicode-property-regex@7.10.4".
+verbose 19.276579206 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-async-generators@7.8.4".
+verbose 19.276655455 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-class-properties@7.10.4".
+verbose 19.276731342 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-dynamic-import@7.8.3".
+verbose 19.276806531 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-export-namespace-from@7.8.3".
+verbose 19.276894484 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-json-strings@7.8.3".
+verbose 19.276968086 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-logical-assignment-operators@7.10.4".
+verbose 19.277042195 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-nullish-coalescing-operator@7.8.3".
+verbose 19.277122369 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-numeric-separator@7.10.4".
+verbose 19.277198052 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-object-rest-spread@7.8.3".
+verbose 19.277272207 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-optional-catch-binding@7.8.3".
+verbose 19.277347516 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-optional-chaining@7.8.3".
+verbose 19.277420368 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-top-level-await@7.10.4".
+verbose 19.27749316 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-arrow-functions@7.10.4".
+verbose 19.277565494 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-async-to-generator@7.10.4".
+verbose 19.277638193 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-block-scoped-functions@7.10.4".
+verbose 19.277750602 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-block-scoping@7.11.1".
+verbose 19.277815827 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-classes@7.10.4".
+verbose 19.277882457 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-computed-properties@7.10.4".
+verbose 19.277947831 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-destructuring@7.10.4".
+verbose 19.278020465 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-dotall-regex@7.10.4".
+verbose 19.278086637 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-duplicate-keys@7.10.4".
+verbose 19.278152784 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-exponentiation-operator@7.10.4".
+verbose 19.278218198 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-for-of@7.10.4".
+verbose 19.278284178 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-function-name@7.10.4".
+verbose 19.278349622 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-literals@7.10.4".
+verbose 19.278414886 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-member-expression-literals@7.10.4".
+verbose 19.278480047 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-amd@7.10.5".
+verbose 19.278545212 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-commonjs@7.10.4".
+verbose 19.278610452 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-systemjs@7.10.5".
+verbose 19.278675293 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-umd@7.10.4".
+verbose 19.278739132 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-named-capturing-groups-regex@7.10.4".
+verbose 19.278804241 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-new-target@7.10.4".
+verbose 19.278869628 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-object-super@7.10.4".
+verbose 19.278935659 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-parameters@7.10.5".
+verbose 19.279001152 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-property-literals@7.10.4".
+verbose 19.279068459 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-regenerator@7.10.4".
+verbose 19.279133543 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-reserved-words@7.10.4".
+verbose 19.279199541 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-shorthand-properties@7.10.4".
+verbose 19.279265006 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-spread@7.11.0".
+verbose 19.27933024 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-sticky-regex@7.10.4".
+verbose 19.279395311 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-template-literals@7.10.5".
+verbose 19.279462083 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-typeof-symbol@7.10.4".
+verbose 19.279527788 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-unicode-escapes@7.10.4".
+verbose 19.279592984 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-unicode-regex@7.10.4".
+verbose 19.279660944 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/preset-modules@0.1.4".
+verbose 19.279731888 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/helper-create-class-features-plugin@7.10.5".
+verbose 19.27979909 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/helper-create-regexp-features-plugin@7.10.4".
+verbose 19.279884585 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "babel-loader@8.1.0".
+verbose 19.27994498 Selecting "webpack@4.44.2" at level 0 as the peer dependency of "babel-loader@8.1.0".
+verbose 19.280055201 Selecting "ajv@6.12.5" at level 1 as the peer dependency of "ajv-keywords@3.5.2".
+verbose 19.280145614 Selecting "webpack@4.44.2" at level 0 as the peer dependency of "terser-webpack-plugin@1.4.5".
+verbose 19.280231043 Selecting "ajv@6.12.5" at level 1 as the peer dependency of "ajv-errors@1.0.1".
+verbose 19.280392427 Selecting "webpack@4.44.2" at level 0 as the peer dependency of "webpack-cli@3.3.12".
+[5/5] Building fresh packages...
+Done in 19.51s.

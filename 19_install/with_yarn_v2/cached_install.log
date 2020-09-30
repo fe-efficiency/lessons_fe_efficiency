@@ -1,0 +1,21 @@
+➤ YN0000: ┌ Resolution step
+➤ YN0002: │ rc-trigger@npm:5.0.6 doesn't provide react-dom@* requested by rc-align@npm:4.0.8
+➤ YN0002: │ rc-trigger@npm:5.0.6 doesn't provide react@* requested by rc-align@npm:4.0.8
+➤ YN0002: │ rc-trigger@npm:5.0.6 doesn't provide react-dom@^16.0.0 requested by rc-motion@npm:2.3.1
+➤ YN0002: │ rc-trigger@npm:5.0.6 doesn't provide react@^16.0.0 requested by rc-motion@npm:2.3.1
+➤ YN0002: │ rc-menu@npm:8.7.1 doesn't provide react-dom@>=16.9.0 requested by mini-store@npm:3.0.6
+➤ YN0002: │ rc-menu@npm:8.7.1 doesn't provide react@>=16.9.0 requested by mini-store@npm:3.0.6
+➤ YN0002: │ rc-menu@npm:8.7.1 doesn't provide react-dom@^16.0.0 requested by rc-motion@npm:2.3.1
+➤ YN0002: │ rc-menu@npm:8.7.1 doesn't provide react@^16.0.0 requested by rc-motion@npm:2.3.1
+➤ YN0002: │ rc-tabs@npm:11.6.2 doesn't provide react-dom@* requested by rc-dropdown@npm:3.2.0
+➤ YN0002: │ rc-tabs@npm:11.6.2 doesn't provide react@* requested by rc-dropdown@npm:3.2.0
+➤ YN0002: │ rc-tabs@npm:11.6.2 doesn't provide react-dom@^16.0.0 requested by rc-resize-observer@npm:0.2.5
+➤ YN0002: │ rc-tabs@npm:11.6.2 doesn't provide react@^16.0.0 requested by rc-resize-observer@npm:0.2.5
+➤ YN0002: │ rc-mentions@npm:1.5.2 [fa42e] doesn't provide react-dom@^16.0.0 requested by rc-textarea@npm:0.3.0
+➤ YN0000: └ Completed
+➤ YN0000: ┌ Fetch step
+➤ YN0000: └ Completed in 0.24s
+➤ YN0000: ┌ Link step
+➤ YN0007: │ fsevents@patch:fsevents@npm%3A1.2.13#builtin<compat/fsevents>::version=1.2.13&hash=87eb42 must be built because it never did before or the last one failed
+➤ YN0000: └ Completed in 2.19s
+➤ YN0000: Done with warnings in 2.61s

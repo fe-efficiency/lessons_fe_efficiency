@@ -1,0 +1,213 @@
+yarn install v1.21.1
+verbose 0.122933687 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.npmrc".
+verbose 0.123144472 Checking for configuration file "/Users/lisijia/.npmrc".
+verbose 0.123262219 Checking for configuration file "/usr/local/etc/npmrc".
+verbose 0.123377951 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.npmrc".
+verbose 0.123488116 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/.npmrc".
+verbose 0.123601844 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/.npmrc".
+verbose 0.123717371 Checking for configuration file "/Users/lisijia/work/ke/tmp/.npmrc".
+verbose 0.123826154 Found configuration file "/Users/lisijia/work/ke/tmp/.npmrc".
+verbose 0.124042394 Checking for configuration file "/Users/lisijia/work/ke/.npmrc".
+verbose 0.124166396 Checking for configuration file "/Users/lisijia/work/.npmrc".
+verbose 0.12428116 Checking for configuration file "/Users/lisijia/.npmrc".
+verbose 0.124391447 Checking for configuration file "/Users/.npmrc".
+verbose 0.126495124 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.126626877 Found configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.126825643 Checking for configuration file "/Users/lisijia/.yarnrc".
+verbose 0.126937972 Found configuration file "/Users/lisijia/.yarnrc".
+verbose 0.127185569 Checking for configuration file "/usr/local/etc/yarnrc".
+verbose 0.127314124 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.127422214 Found configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.127619908 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/.yarnrc".
+verbose 0.127737614 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/.yarnrc".
+verbose 0.127842165 Checking for configuration file "/Users/lisijia/work/ke/tmp/.yarnrc".
+verbose 0.127939168 Checking for configuration file "/Users/lisijia/work/ke/.yarnrc".
+verbose 0.128037447 Checking for configuration file "/Users/lisijia/work/.yarnrc".
+verbose 0.12815384 Checking for configuration file "/Users/lisijia/.yarnrc".
+verbose 0.128260514 Found configuration file "/Users/lisijia/.yarnrc".
+verbose 0.128424712 Checking for configuration file "/Users/.yarnrc".
+verbose 0.130986624 current time: 2020-09-30T14:51:07.043Z
+info Plug'n'Play support has been greatly improved on the Yarn v2 development branch.
+info Please give it a try and tell us what you think! - https://next.yarnpkg.com/getting-started/install
+[1/5] Resolving packages...
+[2/5] Fetching packages...
+[3/5] Linking dependencies...
+verbose 0.552330424 Selecting "react@16.13.1" at level 0 as the peer dependency of "antd@4.6.6".
+verbose 0.552421885 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "antd@4.6.6".
+verbose 0.552688132 Selecting "react@16.13.1" at level 0 as the peer dependency of "@ant-design/icons@4.2.2".
+verbose 0.552894007 Selecting "react@16.13.1" at level 0 as the peer dependency of "@ant-design/react-slick@0.27.10".
+verbose 0.5530531 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "@ant-design/react-slick@0.27.10".
+verbose 0.553169948 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-dialog@8.2.2".
+verbose 0.553270796 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-dialog@8.2.2".
+verbose 0.553329866 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-drawer@4.1.0".
+verbose 0.553379613 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-dropdown@3.2.0".
+verbose 0.553416459 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-dropdown@3.2.0".
+verbose 0.553461472 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-field-form@1.10.1".
+verbose 0.553562768 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-image@3.0.6".
+verbose 0.553637839 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-image@3.0.6".
+verbose 0.553679434 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-mentions@1.5.2".
+verbose 0.553754741 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-motion@2.3.1".
+verbose 0.553824877 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-motion@2.3.1".
+verbose 0.553864116 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-notification@4.4.0".
+verbose 0.553897827 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-notification@4.4.0".
+verbose 0.55396673 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-pagination@3.0.4".
+verbose 0.554036363 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-pagination@3.0.4".
+verbose 0.554108081 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-progress@3.1.0".
+verbose 0.554176769 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-progress@3.1.0".
+verbose 0.554252121 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-resize-observer@0.2.5".
+verbose 0.554321081 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-resize-observer@0.2.5".
+verbose 0.554371603 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-select@11.3.3".
+verbose 0.554406785 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-select@11.3.3".
+verbose 0.55447629 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-slider@9.5.1".
+verbose 0.554544924 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-slider@9.5.1".
+verbose 0.554616209 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-steps@4.1.2".
+verbose 0.55468469 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-steps@4.1.2".
+verbose 0.554756699 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-switch@3.2.1".
+verbose 0.554825324 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-switch@3.2.1".
+verbose 0.554897478 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-table@7.9.10".
+verbose 0.554965624 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-table@7.9.10".
+verbose 0.555041346 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-textarea@0.3.0".
+verbose 0.555110639 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-textarea@0.3.0".
+verbose 0.555156171 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-tree@3.10.0".
+verbose 0.555192691 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-tree@3.10.0".
+verbose 0.555228745 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-tree-select@4.1.2".
+verbose 0.555260756 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-tree-select@4.1.2".
+verbose 0.555324039 Selecting "react@16.13.1" at level 0 as the peer dependency of "mini-store@3.0.6".
+verbose 0.555380174 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "mini-store@3.0.6".
+verbose 0.555419537 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-virtual-list@3.1.0".
+verbose 0.555452735 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-virtual-list@3.1.0".
+verbose 0.555486249 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-align@4.0.8".
+verbose 0.555517955 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-align@4.0.8".
+verbose 0.555601275 Selecting "react@16.13.1" at level 0 as the peer dependency of "react-dom@16.13.1".
+verbose 0.55570513 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/preset-env@7.11.5".
+verbose 0.555785173 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/helper-compilation-targets@7.10.4".
+verbose 0.555872532 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-async-generator-functions@7.10.5".
+verbose 0.555946482 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-class-properties@7.10.4".
+verbose 0.556021307 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-dynamic-import@7.10.4".
+verbose 0.556094577 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-export-namespace-from@7.10.4".
+verbose 0.5561669 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-json-strings@7.10.4".
+verbose 0.556238826 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-logical-assignment-operators@7.11.0".
+verbose 0.556310531 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-nullish-coalescing-operator@7.10.4".
+verbose 0.556382165 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-numeric-separator@7.10.4".
+verbose 0.556453306 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-object-rest-spread@7.11.0".
+verbose 0.556525116 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-optional-catch-binding@7.10.4".
+verbose 0.556601934 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-optional-chaining@7.11.0".
+verbose 0.556673755 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-private-methods@7.10.4".
+verbose 0.556748873 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-unicode-property-regex@7.10.4".
+verbose 0.55682183 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-async-generators@7.8.4".
+verbose 0.556893798 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-class-properties@7.10.4".
+verbose 0.556968298 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-dynamic-import@7.8.3".
+verbose 0.557041787 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-export-namespace-from@7.8.3".
+verbose 0.557114985 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-json-strings@7.8.3".
+verbose 0.557186816 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-logical-assignment-operators@7.10.4".
+verbose 0.557259353 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-nullish-coalescing-operator@7.8.3".
+verbose 0.55733134 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-numeric-separator@7.10.4".
+verbose 0.557404241 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-object-rest-spread@7.8.3".
+verbose 0.5574764 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-optional-catch-binding@7.8.3".
+verbose 0.557548384 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-optional-chaining@7.8.3".
+verbose 0.557619964 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-top-level-await@7.10.4".
+verbose 0.557690798 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-arrow-functions@7.10.4".
+verbose 0.557762238 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-async-to-generator@7.10.4".
+verbose 0.557832772 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-block-scoped-functions@7.10.4".
+verbose 0.557903389 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-block-scoping@7.11.1".
+verbose 0.557974302 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-classes@7.10.4".
+verbose 0.558057657 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-computed-properties@7.10.4".
+verbose 0.558129529 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-destructuring@7.10.4".
+verbose 0.5582021 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-dotall-regex@7.10.4".
+verbose 0.558273666 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-duplicate-keys@7.10.4".
+verbose 0.5583494 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-exponentiation-operator@7.10.4".
+verbose 0.558421496 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-for-of@7.10.4".
+verbose 0.558492604 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-function-name@7.10.4".
+verbose 0.558563738 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-literals@7.10.4".
+verbose 0.558642481 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-member-expression-literals@7.10.4".
+verbose 0.558713603 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-amd@7.10.5".
+verbose 0.558784997 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-commonjs@7.10.4".
+verbose 0.558856752 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-systemjs@7.10.5".
+verbose 0.558927802 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-umd@7.10.4".
+verbose 0.55899824 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-named-capturing-groups-regex@7.10.4".
+verbose 0.559069101 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-new-target@7.10.4".
+verbose 0.559146894 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-object-super@7.10.4".
+verbose 0.559220511 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-parameters@7.10.5".
+verbose 0.559292266 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-property-literals@7.10.4".
+verbose 0.559363723 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-regenerator@7.10.4".
+verbose 0.559438834 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-reserved-words@7.10.4".
+verbose 0.559510173 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-shorthand-properties@7.10.4".
+verbose 0.559581771 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-spread@7.11.0".
+verbose 0.55965238 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-sticky-regex@7.10.4".
+verbose 0.559724069 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-template-literals@7.10.5".
+verbose 0.559794905 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-typeof-symbol@7.10.4".
+verbose 0.559866484 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-unicode-escapes@7.10.4".
+verbose 0.559938002 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-unicode-regex@7.10.4".
+verbose 0.56001439 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/preset-modules@0.1.4".
+verbose 0.560088226 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/helper-create-class-features-plugin@7.10.5".
+verbose 0.560162082 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/helper-create-regexp-features-plugin@7.10.4".
+verbose 0.560261569 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "babel-loader@8.1.0".
+verbose 0.560324801 Selecting "webpack@4.44.2" at level 0 as the peer dependency of "babel-loader@8.1.0".
+verbose 0.560433069 Selecting "ajv@6.12.5" at level 1 as the peer dependency of "ajv-keywords@3.5.2".
+verbose 0.560524022 Selecting "webpack@4.44.2" at level 0 as the peer dependency of "terser-webpack-plugin@1.4.5".
+verbose 0.560607148 Selecting "ajv@6.12.5" at level 1 as the peer dependency of "ajv-errors@1.0.1".
+verbose 0.560759827 Selecting "webpack@4.44.2" at level 0 as the peer dependency of "webpack-cli@3.3.12".
+verbose 0.711832005 Creating directory "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents".
+verbose 0.713058447 Creating directory "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src".
+verbose 0.713531846 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/.travis.yml" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/.travis.yml".
+verbose 0.71482058 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/ISSUE_TEMPLATE.md" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/ISSUE_TEMPLATE.md".
+verbose 0.715011369 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/LICENSE" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/LICENSE".
+verbose 0.715203074 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/Readme.md" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/Readme.md".
+verbose 0.71536316 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/binding.gyp" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/binding.gyp".
+verbose 0.715610892 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/fsevents.cc" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/fsevents.cc".
+verbose 0.715782837 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/fsevents.js" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/fsevents.js".
+verbose 0.715931451 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/install.js" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/install.js".
+verbose 0.716097012 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/package.json" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/package.json".
+verbose 0.716257289 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/async.cc" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/async.cc".
+verbose 0.716401764 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/constants.cc" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/constants.cc".
+verbose 0.716554515 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/methods.cc" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/methods.cc".
+verbose 0.716704305 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/storage.cc" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/storage.cc".
+verbose 0.716846179 Copying "/Users/lisijia/Library/Caches/Yarn/v6/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/thread.cc" to "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/src/thread.cc".
+[5/5] Building fresh packages...
+verbose 1.892666466 gyp info it worked if it ends with ok
+gyp info using node-gyp@3.8.0
+gyp info using node@12.18.2 | darwin | x64
+gyp info spawn /usr/bin/python2
+gyp info spawn args [
+gyp info spawn args   '/usr/local/lib/node_modules/npm/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args   'binding.gyp',
+gyp info spawn args   '-f',
+gyp info spawn args   'make',
+gyp info spawn args   '-I',
+gyp info spawn args   '/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents/build/config.gypi',
+gyp info spawn args   '-I',
+gyp info spawn args   '/usr/local/lib/node_modules/npm/node_modules/node-gyp/addon.gypi',
+gyp info spawn args   '-I',
+gyp info spawn args   '/Users/lisijia/.node-gyp/12.18.2/include/node/common.gypi',
+gyp info spawn args   '-Dlibrary=shared_library',
+gyp info spawn args   '-Dvisibility=default',
+gyp info spawn args   '-Dnode_root_dir=/Users/lisijia/.node-gyp/12.18.2',
+gyp info spawn args   '-Dnode_gyp_dir=/usr/local/lib/node_modules/npm/node_modules/node-gyp',
+gyp info spawn args   '-Dnode_lib_file=/Users/lisijia/.node-gyp/12.18.2/<(target_arch)/node.lib',
+gyp info spawn args   '-Dmodule_root_dir=/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents',
+gyp info spawn args   '-Dnode_engine=v8',
+gyp info spawn args   '--depth=.',
+gyp info spawn args   '--no-parallel',
+gyp info spawn args   '--generator-output',
+gyp info spawn args   'build',
+gyp info spawn args   '-Goutput_dir=.'
+gyp info spawn args ]
+No receipt for 'com.apple.pkg.CLTools_Executables' found at '/'.
+
+No receipt for 'com.apple.pkg.DeveloperToolsCLILeo' found at '/'.
+
+No receipt for 'com.apple.pkg.DeveloperToolsCLI' found at '/'.
+
+gyp: No Xcode or CLT version detected!
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack     at ChildProcess.onCpExit (/usr/local/lib/node_modules/npm/node_modules/node-gyp/lib/configure.js:345:16)
+gyp ERR! stack     at ChildProcess.emit (events.js:315:20)
+gyp ERR! stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+gyp ERR! System Darwin 19.6.0
+gyp ERR! command "/usr/local/bin/node" "/usr/local/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js" "rebuild"
+gyp ERR! cwd /Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.pnp/unplugged/npm-fsevents-1.2.13-f325cb0455592428bcf11b383370ef70e3bfcc38-integrity/node_modules/fsevents
+gyp ERR! node -v v12.18.2
+gyp ERR! node-gyp -v v3.8.0
+gyp ERR! not ok
+Done in 1.80s.

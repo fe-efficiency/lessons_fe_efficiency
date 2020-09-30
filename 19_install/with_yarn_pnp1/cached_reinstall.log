@@ -1,0 +1,151 @@
+yarn install v1.21.1
+verbose 0.130110442 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.npmrc".
+verbose 0.13032764 Checking for configuration file "/Users/lisijia/.npmrc".
+verbose 0.130464186 Checking for configuration file "/usr/local/etc/npmrc".
+verbose 0.130605447 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.npmrc".
+verbose 0.130729177 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/.npmrc".
+verbose 0.130863682 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/.npmrc".
+verbose 0.131014549 Checking for configuration file "/Users/lisijia/work/ke/tmp/.npmrc".
+verbose 0.131140915 Found configuration file "/Users/lisijia/work/ke/tmp/.npmrc".
+verbose 0.131354841 Checking for configuration file "/Users/lisijia/work/ke/.npmrc".
+verbose 0.131463572 Checking for configuration file "/Users/lisijia/work/.npmrc".
+verbose 0.131571266 Checking for configuration file "/Users/lisijia/.npmrc".
+verbose 0.131677258 Checking for configuration file "/Users/.npmrc".
+verbose 0.133843854 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.133958192 Found configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.134144334 Checking for configuration file "/Users/lisijia/.yarnrc".
+verbose 0.134262012 Found configuration file "/Users/lisijia/.yarnrc".
+verbose 0.134497457 Checking for configuration file "/usr/local/etc/yarnrc".
+verbose 0.134606441 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.134708262 Found configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn_pnp1/.yarnrc".
+verbose 0.134964506 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/.yarnrc".
+verbose 0.135091464 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/.yarnrc".
+verbose 0.13520432 Checking for configuration file "/Users/lisijia/work/ke/tmp/.yarnrc".
+verbose 0.135305064 Checking for configuration file "/Users/lisijia/work/ke/.yarnrc".
+verbose 0.13540197 Checking for configuration file "/Users/lisijia/work/.yarnrc".
+verbose 0.13549738 Checking for configuration file "/Users/lisijia/.yarnrc".
+verbose 0.13558902 Found configuration file "/Users/lisijia/.yarnrc".
+verbose 0.135781427 Checking for configuration file "/Users/.yarnrc".
+verbose 0.138357199 current time: 2020-09-30T14:51:26.234Z
+info Plug'n'Play support has been greatly improved on the Yarn v2 development branch.
+info Please give it a try and tell us what you think! - https://next.yarnpkg.com/getting-started/install
+[1/5] Resolving packages...
+[2/5] Fetching packages...
+[3/5] Linking dependencies...
+verbose 0.565322615 Selecting "react@16.13.1" at level 0 as the peer dependency of "antd@4.6.6".
+verbose 0.565417025 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "antd@4.6.6".
+verbose 0.565677423 Selecting "react@16.13.1" at level 0 as the peer dependency of "@ant-design/icons@4.2.2".
+verbose 0.565878657 Selecting "react@16.13.1" at level 0 as the peer dependency of "@ant-design/react-slick@0.27.10".
+verbose 0.566016494 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "@ant-design/react-slick@0.27.10".
+verbose 0.566127631 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-dialog@8.2.2".
+verbose 0.56622191 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-dialog@8.2.2".
+verbose 0.566283859 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-drawer@4.1.0".
+verbose 0.56633652 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-dropdown@3.2.0".
+verbose 0.566376377 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-dropdown@3.2.0".
+verbose 0.566424176 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-field-form@1.10.1".
+verbose 0.566525122 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-image@3.0.6".
+verbose 0.566600804 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-image@3.0.6".
+verbose 0.566642649 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-mentions@1.5.2".
+verbose 0.566718071 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-motion@2.3.1".
+verbose 0.566788761 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-motion@2.3.1".
+verbose 0.566828832 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-notification@4.4.0".
+verbose 0.566862926 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-notification@4.4.0".
+verbose 0.566936656 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-pagination@3.0.4".
+verbose 0.567006076 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-pagination@3.0.4".
+verbose 0.567079494 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-progress@3.1.0".
+verbose 0.567149121 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-progress@3.1.0".
+verbose 0.56722561 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-resize-observer@0.2.5".
+verbose 0.567295291 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-resize-observer@0.2.5".
+verbose 0.567346392 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-select@11.3.3".
+verbose 0.567381034 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-select@11.3.3".
+verbose 0.567451511 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-slider@9.5.1".
+verbose 0.567521796 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-slider@9.5.1".
+verbose 0.567593325 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-steps@4.1.2".
+verbose 0.567662102 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-steps@4.1.2".
+verbose 0.567734212 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-switch@3.2.1".
+verbose 0.567802585 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-switch@3.2.1".
+verbose 0.567875682 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-table@7.9.10".
+verbose 0.56794627 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-table@7.9.10".
+verbose 0.568021299 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-textarea@0.3.0".
+verbose 0.568089487 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-textarea@0.3.0".
+verbose 0.568130458 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-tree@3.10.0".
+verbose 0.568166544 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-tree@3.10.0".
+verbose 0.568202301 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-tree-select@4.1.2".
+verbose 0.568234057 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-tree-select@4.1.2".
+verbose 0.568297606 Selecting "react@16.13.1" at level 0 as the peer dependency of "mini-store@3.0.6".
+verbose 0.568353457 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "mini-store@3.0.6".
+verbose 0.568392136 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-virtual-list@3.1.0".
+verbose 0.568424453 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-virtual-list@3.1.0".
+verbose 0.568458266 Selecting "react@16.13.1" at level 0 as the peer dependency of "rc-align@4.0.8".
+verbose 0.568489558 Selecting "react-dom@16.13.1" at level 0 as the peer dependency of "rc-align@4.0.8".
+verbose 0.568577102 Selecting "react@16.13.1" at level 0 as the peer dependency of "react-dom@16.13.1".
+verbose 0.568677162 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/preset-env@7.11.5".
+verbose 0.568751362 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/helper-compilation-targets@7.10.4".
+verbose 0.568838013 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-async-generator-functions@7.10.5".
+verbose 0.568911234 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-class-properties@7.10.4".
+verbose 0.568983801 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-dynamic-import@7.10.4".
+verbose 0.569055722 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-export-namespace-from@7.10.4".
+verbose 0.569127553 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-json-strings@7.10.4".
+verbose 0.5691995 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-logical-assignment-operators@7.11.0".
+verbose 0.569274941 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-nullish-coalescing-operator@7.10.4".
+verbose 0.5693465 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-numeric-separator@7.10.4".
+verbose 0.569417475 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-object-rest-spread@7.11.0".
+verbose 0.569488995 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-optional-catch-binding@7.10.4".
+verbose 0.56956437 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-optional-chaining@7.11.0".
+verbose 0.569639428 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-private-methods@7.10.4".
+verbose 0.569723621 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-proposal-unicode-property-regex@7.10.4".
+verbose 0.569799834 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-async-generators@7.8.4".
+verbose 0.569873684 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-class-properties@7.10.4".
+verbose 0.569946426 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-dynamic-import@7.8.3".
+verbose 0.570019136 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-export-namespace-from@7.8.3".
+verbose 0.570090723 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-json-strings@7.8.3".
+verbose 0.570162298 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-logical-assignment-operators@7.10.4".
+verbose 0.570234867 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-nullish-coalescing-operator@7.8.3".
+verbose 0.570306271 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-numeric-separator@7.10.4".
+verbose 0.570377745 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-object-rest-spread@7.8.3".
+verbose 0.570449333 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-optional-catch-binding@7.8.3".
+verbose 0.570520823 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-optional-chaining@7.8.3".
+verbose 0.570591646 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-syntax-top-level-await@7.10.4".
+verbose 0.570662468 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-arrow-functions@7.10.4".
+verbose 0.570733356 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-async-to-generator@7.10.4".
+verbose 0.570804481 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-block-scoped-functions@7.10.4".
+verbose 0.570875888 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-block-scoping@7.11.1".
+verbose 0.570946665 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-classes@7.10.4".
+verbose 0.571027933 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-computed-properties@7.10.4".
+verbose 0.571099879 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-destructuring@7.10.4".
+verbose 0.571171942 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-dotall-regex@7.10.4".
+verbose 0.571243359 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-duplicate-keys@7.10.4".
+verbose 0.571314828 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-exponentiation-operator@7.10.4".
+verbose 0.571386061 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-for-of@7.10.4".
+verbose 0.57145745 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-function-name@7.10.4".
+verbose 0.571528262 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-literals@7.10.4".
+verbose 0.571607838 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-member-expression-literals@7.10.4".
+verbose 0.571679799 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-amd@7.10.5".
+verbose 0.571751651 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-commonjs@7.10.4".
+verbose 0.571823513 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-systemjs@7.10.5".
+verbose 0.571894585 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-modules-umd@7.10.4".
+verbose 0.571967308 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-named-capturing-groups-regex@7.10.4".
+verbose 0.572196751 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-new-target@7.10.4".
+verbose 0.572283822 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-object-super@7.10.4".
+verbose 0.572363752 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-parameters@7.10.5".
+verbose 0.572439109 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-property-literals@7.10.4".
+verbose 0.572513361 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-regenerator@7.10.4".
+verbose 0.572586136 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-reserved-words@7.10.4".
+verbose 0.572701592 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-shorthand-properties@7.10.4".
+verbose 0.572797805 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-spread@7.11.0".
+verbose 0.572872939 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-sticky-regex@7.10.4".
+verbose 0.572944008 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-template-literals@7.10.5".
+verbose 0.573014612 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-typeof-symbol@7.10.4".
+verbose 0.573085334 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-unicode-escapes@7.10.4".
+verbose 0.573160539 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/plugin-transform-unicode-regex@7.10.4".
+verbose 0.573232298 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/preset-modules@0.1.4".
+verbose 0.573306179 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/helper-create-class-features-plugin@7.10.5".
+verbose 0.573378169 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "@babel/helper-create-regexp-features-plugin@7.10.4".
+verbose 0.573477054 Selecting "@babel/core@7.11.6" at level 0 as the peer dependency of "babel-loader@8.1.0".
+verbose 0.573538463 Selecting "webpack@4.44.2" at level 0 as the peer dependency of "babel-loader@8.1.0".
+verbose 0.573644902 Selecting "ajv@6.12.5" at level 1 as the peer dependency of "ajv-keywords@3.5.2".
+verbose 0.573733888 Selecting "webpack@4.44.2" at level 0 as the peer dependency of "terser-webpack-plugin@1.4.5".
+verbose 0.573816024 Selecting "ajv@6.12.5" at level 1 as the peer dependency of "ajv-errors@1.0.1".
+verbose 0.573967477 Selecting "webpack@4.44.2" at level 0 as the peer dependency of "webpack-cli@3.3.12".
+[5/5] Building fresh packages...
+Done in 0.69s.

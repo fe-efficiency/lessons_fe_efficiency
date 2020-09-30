@@ -1,0 +1,32 @@
+yarn install v1.21.1
+verbose 0.146089251 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn/.npmrc".
+verbose 0.146343046 Checking for configuration file "/Users/lisijia/.npmrc".
+verbose 0.146469486 Checking for configuration file "/usr/local/etc/npmrc".
+verbose 0.146592299 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn/.npmrc".
+verbose 0.146709208 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/.npmrc".
+verbose 0.146829768 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/.npmrc".
+verbose 0.146948219 Checking for configuration file "/Users/lisijia/work/ke/tmp/.npmrc".
+verbose 0.147064369 Found configuration file "/Users/lisijia/work/ke/tmp/.npmrc".
+verbose 0.147408957 Checking for configuration file "/Users/lisijia/work/ke/.npmrc".
+verbose 0.147666559 Checking for configuration file "/Users/lisijia/work/.npmrc".
+verbose 0.147806226 Checking for configuration file "/Users/lisijia/.npmrc".
+verbose 0.147938945 Checking for configuration file "/Users/.npmrc".
+verbose 0.149283931 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn/.yarnrc".
+verbose 0.149430115 Found configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn/.yarnrc".
+verbose 0.149677372 Checking for configuration file "/Users/lisijia/.yarnrc".
+verbose 0.149803075 Found configuration file "/Users/lisijia/.yarnrc".
+verbose 0.150024654 Checking for configuration file "/usr/local/etc/yarnrc".
+verbose 0.150160976 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn/.yarnrc".
+verbose 0.150289129 Found configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_yarn/.yarnrc".
+verbose 0.150500553 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/.yarnrc".
+verbose 0.150630153 Checking for configuration file "/Users/lisijia/work/ke/tmp/lessons_fe_efficiency/.yarnrc".
+verbose 0.150762969 Checking for configuration file "/Users/lisijia/work/ke/tmp/.yarnrc".
+verbose 0.150876053 Checking for configuration file "/Users/lisijia/work/ke/.yarnrc".
+verbose 0.150983472 Checking for configuration file "/Users/lisijia/work/.yarnrc".
+verbose 0.151088368 Checking for configuration file "/Users/lisijia/.yarnrc".
+verbose 0.151185571 Found configuration file "/Users/lisijia/.yarnrc".
+verbose 0.15138821 Checking for configuration file "/Users/.yarnrc".
+verbose 0.155107381 current time: 2020-09-30T14:41:48.666Z
+[1/4] Resolving packages...
+success Already up-to-date.
+Done in 0.25s.

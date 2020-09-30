@@ -1,0 +1,37 @@
+npm info it worked if it ends with ok
+npm verb cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'i', '--verbose' ]
+npm info using npm@6.9.0
+npm info using node@v12.18.2
+npm verb npm-session 1066bc48f4fe6a1f
+npm info lifecycle with_npm@1.0.0~preinstall: with_npm@1.0.0
+npm timing stage:loadCurrentTree Completed in 728ms
+npm timing stage:loadIdealTree:cloneCurrentTree Completed in 4ms
+npm timing stage:loadIdealTree:loadShrinkwrap Completed in 419ms
+npm timing stage:loadIdealTree:loadAllDepsIntoIdealTree Completed in 381ms
+npm timing stage:loadIdealTree Completed in 936ms
+npm timing stage:generateActionsToTake Completed in 35ms
+npm verb correctMkdir /Users/lisijia/.npm/_locks correctMkdir not in flight; initializing
+npm verb lock using /Users/lisijia/.npm/_locks/staging-f951a4997ad0c8ef.lock for /Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_npm/node_modules/.staging
+npm verb unlock done using /Users/lisijia/.npm/_locks/staging-f951a4997ad0c8ef.lock for /Users/lisijia/work/ke/tmp/lessons_fe_efficiency/19_install/with_npm/node_modules/.staging
+npm timing stage:executeActions Completed in 9ms
+npm timing stage:rollbackFailedOptional Completed in 0ms
+npm info linkStuff with_npm@1.0.0
+npm info lifecycle with_npm@1.0.0~install: with_npm@1.0.0
+npm info lifecycle with_npm@1.0.0~postinstall: with_npm@1.0.0
+npm info lifecycle with_npm@1.0.0~prepublish: with_npm@1.0.0
+npm info lifecycle with_npm@1.0.0~prepare: with_npm@1.0.0
+npm timing stage:runTopLevelLifecycles Completed in 1904ms
+npm verb saving []
+npm verb shrinkwrap skipping write for package.json because there were no changes.
+npm info lifecycle undefined~preshrinkwrap: undefined
+npm info lifecycle undefined~shrinkwrap: undefined
+npm verb shrinkwrap skipping write for package-lock.json because there were no changes.
+npm info lifecycle undefined~postshrinkwrap: undefined
+npm WARN with_npm@1.0.0 No description
+npm WARN with_npm@1.0.0 No repository field.
+
+npm http fetch POST 404 https://registry.npm.taobao.org/-/npm/v1/security/audits/quick 505ms
+up to date in 2.38s
+npm verb exit [ 0, true ]
+npm timing npm Completed in 2626ms
+npm info ok 

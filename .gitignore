@@ -104,3 +104,4 @@ typings/
 
 dist
 .appcache
+!*install.log
